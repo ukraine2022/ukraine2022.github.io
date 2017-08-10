@@ -5,8 +5,10 @@ layout: default
 ![logo](/images/logo-r.jpg){:style="width: 130px; float: left; 
 margin-right: 20px; margin-bottom: 5px"} 
 
-#Welcome!
-#{: style="text-align: center"}
+{::comment}
+Welcome!
+{: style="text-align: center"}
+{:/comment}
 
 I am an Associate Professor in the Department of Mathematics and Statistics at the University of New Mexico.
 
