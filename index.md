@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![logo](/images/logo-r.jpg){:class="img-responsive" .image-left} I am an Associate Professor in the Department of Mathematics and Statistics at the University of New Mexico.
+![logo](/images/logo-r.jpg){:class="img-responsive" style="float: left;"} I am an Associate Professor in the Department of Mathematics and Statistics at the University of New Mexico.
 
 My current research interests are in the areas of spectral and inverse spectral theory, Chebyshev and orthogonal polynomials, approximation theory, and more broadly in analysis and mathematical physics.
 
