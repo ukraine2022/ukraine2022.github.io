@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![logo](/images/logo-r.jpg){:class="img-responsive" style="float: left; margin-right: 5px;"} 
+![logo](/images/logo-r.jpg){:class="img-responsive" style="float: left; margin-right: 10px;"} 
 
 I am an Associate Professor in the Department of Mathematics and Statistics at the University of New Mexico.
 
