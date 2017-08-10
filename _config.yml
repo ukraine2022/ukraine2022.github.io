@@ -1,8 +1,8 @@
 # Site settings
-title:       Maxim Zinchenko
+title:       Maxim Zinchenko's Home Page
 email:       
-author:      
-description: 
+author:      Maxim Zinchenko
+description: Home Page
 baseurl:     ""
 url:         "https://maximmath.github.io"
 date_format: "%b %-d, %Y"
