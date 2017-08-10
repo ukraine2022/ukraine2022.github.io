@@ -1,6 +1,5 @@
 a {
   color: $link-color;
-  text-decoration: none !important;
   background-image: linear-gradient(to top,
     rgba(0,0,0,0) 13%,
     rgba($link-color,.8) 13%,
@@ -15,7 +14,7 @@ a:focus,
 a:active {
   border: 0;
   color: $link-hover-color;
-  text-decoration: none !important;
+  text-decoration: none;
   background-image: linear-gradient(to top,
     rgba(0,0,0,0) 13%,
     rgba($link-hover-color,.8) 13%,
@@ -43,6 +42,7 @@ button,
 .anchorjs-link {
     text-shadow: none;
     background-image: none;
+	text-decoration: none;
 }
 .anchorjs-link:hover,
 .anchorjs-link:focus,
@@ -51,4 +51,5 @@ button,
     color: $link-hover-color;
     text-shadow: none;
     background-image: none;
+	text-decoration: none;
 }
