@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![logo](/images/logo-r.jpg){:class="img-responsive" style="float: left; 
+![logo](/images/logo-r.jpg){:style="width: 130px; float: left; 
 margin-right: 20px; margin-bottom: 5px"} 
 
 Welcome!
