@@ -2,83 +2,20 @@
 layout: default
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I am an Associate Professor in the Department of Mathematics and Statistics at the University of New Mexico.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+My current research interests are in the areas of spectral and inverse spectral theory, Chebyshev and orthogonal polynomials, approximation theory, and more broadly in analysis and mathematical physics.
 
-Thanks to the following:
+Selected publications:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+> "Renormalized oscillation theory for Hamiltonian systems"; with F.Gesztesy. Adv. Math. 311 (2017), 569-597.
 
-List of contributors:
+> "Lieb-Thirring inequalities for finite and infinite gap Jacobi matrices"; with J.S.Christiansen. Ann. Henri Poincaré 18 (2017), 1949–1976.
 
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+> "Asymptotics of Chebyshev Polynomials, I. Subsets of R"; with J.S.Christiansen and B.Simon. Invent. Math. 208 (2017), 217-245.
+
+> "On spectral theory for Schrödinger operators with operator-valued potentials"; with F.Gesztesy and R.Weikard. J. Diff. Eqs. 255 (2013), 1784-1827.
+
+> "The Hilbert transform of a measure"; with A.Poltoratski and B.Simon. J. d'Analyse Math. 111 (2010), 247-265.
+
+> "Right limits and reflectionless measures for CMV matrices"; with J.Breuer and E.Ryckman. Commun. Math. Phys. 292 (2009), 1-28.
