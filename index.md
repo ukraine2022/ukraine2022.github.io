@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![logo](/images/logo-r.jpg){:style="width: 130px; float: left; 
+![logo](/images/logo-r.jpg){:style="width: 140px; float: left; 
 margin-right: 20px; margin-bottom: 5px"} 
 
 {::comment}
