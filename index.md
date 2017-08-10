@@ -5,7 +5,7 @@ layout: default
 ![logo](/images/logo-r.jpg){:class="img-responsive" style="float: left; 
 margin-right: 20px; margin-bottom: 10px"} 
 
-:#### Welcome! ####
+#### Welcome! ####
 
 I am an Associate Professor in the Department of Mathematics and Statistics at the University of New Mexico.
 
