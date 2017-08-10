@@ -24,7 +24,7 @@ $h1-responsive-max: 3.84rem !default;
 $abbr-border-bottom: 1px black dotted;
 
 // Page width
-$measure-width: 38rem !default;
+$measure-width: 44rem !default;
 
 // Viewport widths
 $viewport-small: 32em;
@@ -54,7 +54,7 @@ $darken-4: rgba(#000,.5) !default;
 
 // Links
 $link-color: $blue;
-$link-hover-color: darken($blue, 80%);
+$link-hover-color: darken($blue, 20%);
 $link-text-decoration: none;
 $link-hover-text-decoration: none;
 
