@@ -6,6 +6,7 @@ layout: default
 margin-right: 20px; margin-bottom: 10px"} 
 
 #### Welcome! ####
+{: style="text-align: center"}
 
 I am an Associate Professor in the Department of Mathematics and Statistics at the University of New Mexico.
 
