@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![logo](/images/logo-r.jpg){:style="width: 140px; float: left; 
-margin-right: 30px; margin-bottom: 5px"} 
+margin-right: 20px; margin-bottom: 5px"} 
 
 Welcome!
 {: style="text-align: center"}
@@ -11,7 +11,7 @@ Welcome!
 I am an Associate Professor at the University of New Mexico.
 My research interests are in the areas of spectral and inverse spectral theory, Chebyshev and orthogonal polynomials, approximation theory, and more broadly in analysis and mathematical physics.
 
-Selected publications: $$\frac{1}{2}$$
+Selected publications:
 
 - "Renormalized oscillation theory for Hamiltonian systems"; with F.Gesztesy. 
 [Adv. Math. 311 (2017), 569–597](http://dx.doi.org/10.1016/j.aim.2017.03.005)
