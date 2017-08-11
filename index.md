@@ -9,7 +9,7 @@ Welcome!
 {: style="text-align: center"}
 
 I am an Associate Professor at the University of New Mexico.
-My current research interests are in the areas of spectral and inverse spectral theory, Chebyshev and orthogonal polynomials, approximation theory, and more broadly in analysis and mathematical physics.
+My research interests are in the areas of spectral and inverse spectral theory, Chebyshev and orthogonal polynomials, approximation theory, and more broadly in analysis and mathematical physics.
 
 Selected publications:
 
