@@ -7,9 +7,7 @@ tags:
 
 <h4>Publications&nbsp; 
 <a href="https://arxiv.org/a/zinchenko_m_1" target="_blank">[ArXiv]</a>&nbsp;
-<a href="http://front.math.ucdavis.edu/author/M.Zinchenko" target="_blank">[UCD ArXiv]</a>&nbsp; 
-<a href="http://www.ams.org/msnmain?fn=130&amp;r=1&amp;form=home&amp;preferred_language=en&amp;redirect=Providence,+RI+USA&amp;pg1=AUCN&amp;s1=Zinchenko,+M*&amp;Submit2=Go" target="_blank">[MathSciNet]</a>&nbsp;
-<a href="http://www.ams.org/mathscinet/mrcit/individual.html?mrauthid=778212&amp;seeall" target="_blank">[MR Citations]</a>&nbsp;
+<a href="http://www.ams.org/mathscinet/search/author.html?mrauthid=778212" target="_blank">[MathSciNet]</a>&nbsp;
 <a href="http://scholar.google.com/citations?user=SW1Lc4YAAAAJ" target="_blank">[Google Scholar]</a>&nbsp; 
 <a href="http://www.researchgate.net/profile/Maxim_Zinchenko" target="_blank">[Research Gate]</a>&nbsp; 
 <a href="http://orcid.org/0000-0002-9559-0650" target="_blank">[ORCID]</a>&nbsp; 
