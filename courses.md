@@ -6,4 +6,3 @@ tags:
 ---
 
 [Applied Ordinary Differential Equations]
-(http://sites.google.com/site/maximmath/courses/math316f18)
