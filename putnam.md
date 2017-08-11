@@ -6,8 +6,8 @@ tags:
 ---
 
 #### Putnam Exam 2017 ####
-Time: 8:30am - 11:30am, 1:30pm - 4:30pm\\
-Date: Saturday December 2, 2017\\
+Time: 8:30am - 11:30am, 1:30pm - 4:30pm<br>
+Date: Saturday December 2, 2017<br>
 Place: TBA
 
 #### Putnam Problem of the Day ####
