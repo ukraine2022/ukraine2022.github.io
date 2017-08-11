@@ -5,24 +5,24 @@ permalink: /putnam/
 tags: 
 ---
 
-#### Putnam Exam 2017 ####
+<h4>Putnam Exam 2017</h4>
 Time: 8:30am - 11:30am, 1:30pm - 4:30pm<br>
 Date: Saturday December 2, 2017<br>
 Place: TBA
 
-#### Putnam Problem of the Day ####
+<h4>Putnam Problem of the Day</h4>
 <img src="http://www.math.harvard.edu/putnam/day.gif" border="0">
 
-#### William Lowell Putnam Mathematical Competition ####
+<h4>William Lowell Putnam Mathematical Competition</h4>
 The Putnam Mathematical Competition is an annual contest for regularly enrolled undergraduate college/university students in the U.S. and Canada who have not yet received a college degree. More than 4000 students from over 500 colleges and universities take part in this most prestigious mathematics competition in America. The competition is a 6 hour exam consisting of 12 mathematics problems split in two 3 hour sessions (with 2 hour lunch break between them) held on the first Saturday of December. A person may take the Putnam Exam a maximum of four times.
 
 The Putnam examination tests originality, technical competence and familiarity with the formal theories embodied in undergraduate mathematics. Questions cut across the boundaries of various disciplines, and include self-contained questions that do not fit into any of the usual categories. These self-contained questions can involve elementary concepts from algebra (abstract and linear), analysis (trigonometry, calculus, complex variables, differential equations, functional equations, inequalities), geometry, discrete mathematics (combinatorics, graphs, recursively defined sequences, generating functions), number theory (primes, congruences/modular arithmetic), and probability. Prizes are awarded to the top individual participants and teams. The top five scorers on the exam are named Putnam Fellows.
 
 All students with interests in the mathematical sciences are strongly encouraged to participate. Students taking part in and preparing for the competition learn a lot about general mathematical skills such as solving problems and proving statements. Graduate schools and other employers can be impressed by high Putnam scores.
 
-Each institution is required to submit an official list of participating students. Those who are on this list are guaranteed entry in the Putnam, others may be able to participate on a walk-on basis provided there are sufficiently many no-shows at the contest. If you are interested in taking the Putnam exam please send an email to <{{site.email}}> with your name and your student id by the end of September.
+Each institution is required to submit an official list of participating students. Those who are on this list are guaranteed entry in the Putnam, others may be able to participate on a walk-on basis provided there are sufficiently many no-shows at the contest. If you are interested in taking the Putnam exam please send an email to \<{{site.email}}\> with your name and your student id by the end of September.
 
-#### Putnam Problems Archive and Resources ####
+<h4>Putnam Problems Archive and Resources<h4>
 <ul>
 <li><a href="http://math.scu.edu/putnam/" target="_blank">Official Putnam Website</a></li>
 <li><a href="http://kskedlaya.org/putnam-archive/" target="_blank">Past problems and solutions</a></li>
@@ -75,7 +75,6 @@ Each institution is required to submit an official list of participating student
 
 <li>Other Resources:</li>
 <ul>
-
 <li><a href="http://www.math.cornell.edu/~putnam/" target="_blank">Cornell</a></li>
 <li><a href="http://www.math.northwestern.edu/~mlerma/problem_solving/putnam/" target="_blank">Northwestern</a></li>
 <li><a href="http://www.math.illinois.edu/~ajh/putnam/resources.html" target="_blank">Urbana-Champaign</a></li>
