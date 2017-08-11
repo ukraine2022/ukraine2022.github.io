@@ -5,7 +5,7 @@ permalink: /putnam/
 tags: 
 ---
 
-<h4>Putnam Exam 2017</h4>
+#### Putnam Exam 2017
 Time: 8:30am - 11:30am, 1:30pm - 4:30pm<br>
 Date: Saturday December 2, 2017<br>
 Place: TBA
@@ -22,7 +22,7 @@ All students with interests in the mathematical sciences are strongly encouraged
 
 Each institution is required to submit an official list of participating students. Those who are on this list are guaranteed entry in the Putnam, others may be able to participate on a walk-on basis provided there are sufficiently many no-shows at the contest. If you are interested in taking the Putnam exam please send an email to \<{{site.email}}\> with your name and your student id by the end of September.
 
-<h4>Putnam Problems Archive and Resources<h4>
+<h4>Putnam Problems Archive and Resources</h4>
 <ul>
 <li><a href="http://math.scu.edu/putnam/" target="_blank">Official Putnam Website</a></li>
 <li><a href="http://kskedlaya.org/putnam-archive/" target="_blank">Past problems and solutions</a></li>
