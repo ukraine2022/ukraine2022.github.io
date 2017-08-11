@@ -5,4 +5,5 @@ permalink: /courses/
 tags: 
 ---
 
-Under construction
+Applied Ordinary Differential Equations
+(https://sites.google.com/site/maximmath/courses/math316f18)
