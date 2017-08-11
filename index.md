@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![logo](/images/logo-r.jpg){:style="width: 140px; float: left; 
-margin-right: 20px; margin-bottom: 5px"} 
+margin-right: 15px; margin-bottom: 5px"} 
 
 Welcome!
 {: style="text-align: center"}
