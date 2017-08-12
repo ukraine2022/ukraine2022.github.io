@@ -5,7 +5,7 @@ permalink: /courses/
 tags: 
 ---
 
-$$a^b$$
+$a^b$
 
 #### Current
 
