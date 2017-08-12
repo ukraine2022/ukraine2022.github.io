@@ -5,6 +5,8 @@ permalink: /links/
 tags: 
 ---
 
+$$a^b$$
+
 Books:
 <ul>
 <li><a href="http://amzn.to/1NtA8Zh" target="_blank">A Comprehensive Course in Analysis by Barry Simon</a></li>
