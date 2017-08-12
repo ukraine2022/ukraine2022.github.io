@@ -20,7 +20,7 @@ The Putnam examination tests originality, technical competence and familiarity w
 
 All students with interests in the mathematical sciences are strongly encouraged to participate. Students taking part in and preparing for the competition learn a lot about general mathematical skills such as solving problems and proving statements. Graduate schools and other employers can be impressed by high Putnam scores.
 
-Each institution is required to submit an official list of participating students. Those who are on this list are guaranteed entry in the Putnam, others may be able to participate on a walk-on basis provided there are sufficiently many no-shows at the contest. If you are interested in taking the Putnam exam please send an email to {{site.email}} with your name and your student id by the end of September.
+Each institution is required to submit an official list of participating students. Those who are on this list are guaranteed entry in the Putnam, others may be able to participate on a walk-on basis provided there are sufficiently many no-shows at the contest. If you are interested in taking the Putnam exam please send an email to \<{{site.email}}\> with your name and your student id by the end of September.
 
 #### Putnam Problems Archive and Resources
 <ul>
