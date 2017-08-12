@@ -1,6 +1,6 @@
 # Site settings
 title:       Maxim Zinchenko
-email:       <last name>@unm.edu
+email:       \<last name\>@unm.edu
 author:      Maxim Zinchenko
 description: Home Page
 baseurl:     ""
