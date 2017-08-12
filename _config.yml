@@ -1,6 +1,6 @@
 # Site settings
 title:       Maxim Zinchenko
-email:       <script> document.write('l'+'&#97;'+'&#115;'+'t'+' '+'&#110;'+'a'+'m'+'e'+' '+'&#'+'97'+';'+'&'+'#1'+'1'+'6;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#10'+'1;'+'d'+'&#11'+'7;');</script>
+email:       {<script> document.write('l'+'&#97;'+'&#115;'+'t'+' '+'&#110;'+'a'+'m'+'e'+' '+'&#'+'97'+';'+'&'+'#1'+'1'+'6;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#10'+'1;'+'d'+'&#11'+'7;');</script>}
 author:      Maxim Zinchenko
 description: Home Page
 baseurl:     ""
