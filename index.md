@@ -11,7 +11,21 @@ I am an Associate Professor in the Department of Mathematics and Statistics at t
 
 My research interests are in the areas of spectral and inverse spectral theory, Chebyshev and orthogonal polynomials, approximation theory, and more broadly analysis and mathematical physics.
 
-Selected publications: $$a^b$$ 
+Selected publications: 
+
+$$a^b$$ 
+
+<script>
+  $("script[type='math/tex']").replaceWith(function() {
+      var tex = $(this).text();
+      return katex.renderToString(tex, {displayMode: false});
+  });
+
+  $("script[type='math/tex; mode=display']").replaceWith(function() {
+      var tex = $(this).html();
+      return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
+  });
+</script>
 
 - "Renormalized oscillation theory for Hamiltonian systems"; with F.Gesztesy. 
 [Adv. Math. 311 (2017), 569–597](http://dx.doi.org/10.1016/j.aim.2017.03.005)
