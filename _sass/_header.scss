@@ -1,6 +1,7 @@
 .site-header {
-  padding: $space-1;
-  background-color: $header-bg-color;
+  padding-top: $space-1;
+  padding-bottom: $space-2;
+  background-color: $header-bg-color
 }
 
 .site-header a {
@@ -15,7 +16,7 @@
 }
 
 .site-nav {
-  margin-top: $space-1;
+  margin-top: $space-2;
 }
 
 .site-header nav a {
