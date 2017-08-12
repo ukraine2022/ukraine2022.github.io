@@ -15,18 +15,6 @@ Selected publications:
 
 $$a^b$$ 
 
-<script>
-  $("script[type='math/tex']").replaceWith(function() {
-      var tex = $(this).text();
-      return katex.renderToString(tex, {displayMode: false});
-  });
-
-  $("script[type='math/tex; mode=display']").replaceWith(function() {
-      var tex = $(this).html();
-      return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
-  });
-</script>
-
 - "Renormalized oscillation theory for Hamiltonian systems"; with F.Gesztesy. 
 [Adv. Math. 311 (2017), 569–597](http://dx.doi.org/10.1016/j.aim.2017.03.005)
 - "Lieb-Thirring inequalities for finite and infinite gap Jacobi matrices"; with J.S.Christiansen. 

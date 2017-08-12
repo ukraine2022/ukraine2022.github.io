@@ -118,7 +118,8 @@ text:
   og_locale: 'en_US'
 
 # Build settings
-markdown:     kramdown --math-engine
+markdown:     kramdown
+kramdown:	  math_engine=nil
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
