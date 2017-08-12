@@ -12,11 +12,6 @@ header_pages:
  - putnam.md
  - links.md 
  
-
-# Font
-font-family: 'Times New Roman'
-
-
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
