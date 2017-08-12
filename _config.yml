@@ -120,7 +120,7 @@ text:
 # Build settings
 markdown:     kramdown
 kramdown:
-  math_engine:nil
+  math_engine: nil
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
