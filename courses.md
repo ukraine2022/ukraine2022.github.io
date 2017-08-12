@@ -7,8 +7,6 @@ tags:
 
 #### Current
 
-$$$a^b$$$
-
 - FA 2017-18, Math 316, [Applied Ordinary Differential Equations](http://math.unm.edu/~maxim/math316/)
 
 
