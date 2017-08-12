@@ -13,7 +13,7 @@ My research interests are in the areas of spectral and inverse spectral theory, 
 
 Selected publications: 
 
-$$a^b$$ 
+\[a^b\]
 
 - "Renormalized oscillation theory for Hamiltonian systems"; with F.Gesztesy. 
 [Adv. Math. 311 (2017), 569–597](http://dx.doi.org/10.1016/j.aim.2017.03.005)
