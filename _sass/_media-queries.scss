@@ -1,3 +1,7 @@
+html {
+    font-size: $base-font-size;
+  }
+
 @media screen and (min-width: $viewport-small) {
   html {
     font-size: $base-font-size;
