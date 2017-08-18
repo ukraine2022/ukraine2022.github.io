@@ -1,8 +1,21 @@
-@media screen and (min-width: 0) {
+@media screen and (min-width: 1) {
   html {
     font-size: $base-font-size;
   }
 
+  h1,
+  .h1 {
+    font-size: $h1;
+  }
+
+  .site-header a {
+    font-size: $h4;
+  }
+
+  .site-header .site-title {
+    font-size: $h3;
+  }
+  
   blockquote {
     margin-left: $space-3;
     padding: $space-3;
