@@ -27,7 +27,7 @@ with Fritz Gesztesy.
 <li>
 <q>Lieb-Thirring inequalities for complex finite gap Jacobi matrices</q>; 
 with Jacob Christiansen. 
-To appear in Lett. Math. Phys.
+<i>Lett. Math. Phys.</i> <b>107</b> (2017), 1769-1780.
 <a href="https://sites.google.com/site/maximmath/publications/LTcomplex.pdf?attredirects=0" target="_blank">[PDF]</a>
 </li>
 

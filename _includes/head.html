@@ -38,6 +38,9 @@
       <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     {% endif %}
 
+	<!-- jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	
     <!-- MathJax -->
     {% if site.enable_mathjax %}
 	<script type="text/x-mathjax-config">
@@ -48,9 +51,6 @@
 	</script>
     {% endif %}
 
-	<!-- jQuery -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	
 	<!-- KaTex -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.1/katex.min.css" integrity="sha384-BDqcjN11/6D69oC63ObubLHNvQR2fNjin6+AzxA3xalB0swTj17TxVV1tL1Q5Png" crossorigin="anonymous">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.1/katex.min.js" integrity="sha384-sKYm5us3z9/bRQA+cc3gPzqwI5RVgL8vJQx1lpBudr9IzHOR8fnFUH68dz1GsTQw" crossorigin="anonymous">
@@ -99,20 +99,6 @@
     {% if site.post_preview_image %}
     <meta property="og:image" content="{{ site.url }}/images/me.jpeg">
     {% endif %}
-
-    <!-- Twitter Card
-    <meta name="twitter:card" content="summary" />
-    {% if site.twitter_username %}
-        <meta name="twitter:site" content="@{{ site.twitter_username }}" />
-        <meta name="twitter:creator" content="@{{ site.twitter_username }}" />
-    {% endif %}
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}" />
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-    {% if site.post_preview_image %}
-    <meta name="twitter:image" content="{{ site.url }}/images/me.jpeg" />
-    {% endif %}
-	-->
 	 
     <!-- Icons 
     <link rel="icon" type="image/png" href="/favicon.png">
@@ -128,4 +114,19 @@
        ga('send', 'pageview');
     </script>
     {% endif %}
+	
+	<script type="text/javascript">
+	var sc_project=10498952;
+	var sc_invisible=1;
+	var sc_security="ffc3fc39";
+	var scJsHost = (("https:" == document.location.protocol) ?
+	"https://secure." : "http://www.");
+	document.write("<sc"+"ript type='text/javascript' src='" +
+	scJsHost+
+	"statcounter.com/counter/counter.js'></"+"script>");
+	</script>
+	<noscript>
+	<img src="//c.statcounter.com/10498952/0/ffc3fc39/1/" style="border:none;">
+	</noscript>
+	
 </head>
