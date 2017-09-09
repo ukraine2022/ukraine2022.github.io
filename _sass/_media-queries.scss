@@ -3,11 +3,11 @@
   }
 
   .site-header a {
-    font-size: $h4;
+    font-size: $base-font-size;
   }
 
   .site-header .site-title {
-    font-size: $h3;
+    font-size: $base-font-size;
   }
 
 @media screen and (min-width: $viewport-small) {
