@@ -1,5 +1,6 @@
+@media screen and (min-width: 0em) {
   html {
-    font-size: $h3;
+    font-size: $base-font-size;
   }
 
   .site-header a {
@@ -9,6 +10,7 @@
   .site-header .site-title {
     font-size: $h3;
   }
+}
 
 @media screen and (min-width: $viewport-small) {
   html {
