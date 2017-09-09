@@ -1,13 +1,13 @@
   html {
-    font-size: $base-font-size;
+    font-size: $h3;
   }
 
   .site-header a {
-    font-size: $base-font-size;
+    font-size: $h4;
   }
 
   .site-header .site-title {
-    font-size: $base-font-size;
+    font-size: $h3;
   }
 
 @media screen and (min-width: $viewport-small) {
