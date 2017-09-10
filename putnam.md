@@ -11,7 +11,7 @@ Date: Saturday December 2, 2017<br>
 Place: TBA
 
 #### Putnam Problem of the Day
-<img src="http://www.math.harvard.edu/putnam/day.gif" border="0">
+<img src="http://www.math.harvard.edu/putnam/day.gif" width="100%" border="0">
 
 #### William Lowell Putnam Mathematical Competition
 The Putnam Mathematical Competition is an annual contest for regularly enrolled undergraduate college/university students in the U.S. and Canada who have not yet received a college degree. More than 4000 students from over 500 colleges and universities take part in this most prestigious mathematics competition in America. The competition is a 6 hour exam consisting of 12 mathematics problems split in two 3 hour sessions (with 2 hour lunch break between them) held on the first Saturday of December. A person may take the Putnam Exam a maximum of four times.
