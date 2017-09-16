@@ -9,12 +9,10 @@ Books:
 <ul>
 <li><a href="http://amzn.to/1NtA8Zh" target="_blank">A Comprehensive Course in Analysis by Barry Simon</a></li>
 <li><a href="http://amzn.to/1WQmZvv" target="_blank">Princeton Lectures in Analysis by Stein and Shakarchi</a></li>
-<li><a href="http://amzn.to/1SnAzEL" target="_blank">Analysis by Terence Tao</a><br>
-</li>
+<li><a href="http://amzn.to/1SnAzEL" target="_blank">Analysis by Terence Tao</a></li>
 <li><a href="http://aimath.org/textbooks/approved-textbooks/" target="_blank">AIM open-access textbooks list</a></li>
 <li><a href="https://www.ams.org/open-math-notes" target="_blank">AMS open math notes</a></li>
-<li><a href="http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html" target="_blank">Online math textbooks</a><br>
-</li>
+<li><a href="http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html" target="_blank">Online math textbooks</a></li>
 </ul>
 
 Articles:
@@ -60,19 +58,17 @@ Albuquerque:
 </ul>
 
 Free Courses:
-<ul><li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
+<ul>
+<li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
 <li><a href="https://www.udacity.com/" target="_blank">Udacity</a></li>
 <li><a href="https://www.edx.org/" target="_blank">edX</a></li>
-<li><a href="https://www.class-central.com/" target="_blank">Class Central</a><br>
-</li>
+<li><a href="https://www.class-central.com/" target="_blank">Class Central</a></li>
 </ul>
 Rankings and Citations:
 <ul>
 <li><a href="http://www.ams.org.libproxy.unm.edu/mathscinet/citations.html" target="_blank">MathSciNet Journal Ranking</a></li>
 <li><a href="http://www.austms.org.au/Rankings/AustMS_final_ranked.html" target="_blank">Australian Journal Ranking</a></li>
-<li><a href="http://qualis.capes.gov.br/webqualis/principal.seam" target="_blank">Brazilian Journal Ranking</a><br>
-</li>
-
+<li><a href="http://qualis.capes.gov.br/webqualis/principal.seam" target="_blank">Brazilian Journal Ranking</a></li>
 <li><a href="https://jcr.incites.thomsonreuters.com/JCRJournalHomeAction.action" target="_blank">InCites Thomson Reuters JCR</a></li>
 <li><a href="http://www.scimagojr.com/journalrank.php?area=2600" target="_blank">Scimago Journal Ranking</a></li>
 <li><a href="https://www.scopus.com/freelookup/form/author.uri" target="_blank">Scopus Author Search</a><br>
