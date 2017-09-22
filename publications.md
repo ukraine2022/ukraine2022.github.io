@@ -67,7 +67,7 @@ with Konstantin A. Makarov and Anna Skripka.
 <li>
 <q>CMV matrices with super exponentially decaying Verblunsky coefficients</q>.
 <i>Math. Model. Nat. Phenom.</i> <b>9</b> (2014), 282-294. 
-<a href="https://sites.google.com/site/maximmath/publications/CMVSupExp.pdf">[PDF]</a></li>
+<a href="https://sites.google.com/site/maximmath/publications/CMVSupExp.pdf" target="_blank">[PDF]</a></li>
 
 <li>
 <q>Boundary data maps and Krein's resolvent formula for Schrödinger operators on a compact interval</q>; 
@@ -150,7 +150,7 @@ with Jacob Christiansen and Barry Simon.
 <q>The inverse resonance problem for CMV operators</q>; 
 with Rudi Weikard.
 <i>Inverse Problems.</i> <b>26</b> 055012 (2010).
-<a href="https://sites.google.com/site/maximmath/publications/CMVres.pdf">[PDF]</a>
+<a href="https://sites.google.com/site/maximmath/publications/CMVres.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li>
@@ -212,7 +212,7 @@ with Fritz Gesztesy and Marius Mitrea.
 <q>A multi-dimensional variant of the Jost and Pais formula</q>; 
 with Fritz Gesztesy and Marius Mitrea.
 <i>Rep. Math. Phys.</i> <b>59</b> (2007), 365-377.
-<a href="https://sites.google.com/site/maximmath/publications/GMZWroclaw.pdf">[PDF]</a>
+<a href="https://sites.google.com/site/maximmath/publications/GMZWroclaw.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li>
@@ -278,13 +278,13 @@ Other Writings:
 <q>Matrix Analysis and Spectral Theory</q>; 
 with Anna Skripka. 
 <i>MCTP minicourse</i>, 2013. 
-<a href="https://sites.google.com/site/maximmath/publications/LinAlg%26SpTh.pdf">[PDF]</a>
+<a href="https://sites.google.com/site/maximmath/publications/LinAlg%26SpTh.pdf" target="_blank">[PDF]</a>
 </li>
 
 <li>
 <q>Spectral and Inverse Spectral Theory of Second-Order Difference (Jacobi) Operators on N and on Z</q>, 
 VIGRE seminar 2003. 
-<a href="https://sites.google.com/site/maximmath/publications/Jacobi-VIGRE.pdf">[PDF]</a>
+<a href="https://sites.google.com/site/maximmath/publications/Jacobi-VIGRE.pdf" target="_blank">[PDF]</a>
 </li>
 </ul>
 
