@@ -13,12 +13,12 @@ My research interests are in the areas of spectral and inverse spectral theory, 
 
 Selected publications:
 
+- "Asymptotics of Chebyshev Polynomials, I. Subsets of $\mathbb R$"; with J.S.Christiansen and B.Simon. 
+[Inventiones Mathematicae 208 (2017), 217–245](http://dx.doi.org/10.1007/s00222-016-0689-x)
 - "Renormalized oscillation theory for Hamiltonian systems"; with F.Gesztesy. 
 [Advances in Mathematics 311 (2017), 569–597](http://dx.doi.org/10.1016/j.aim.2017.03.005)
 - "Lieb-Thirring inequalities for finite and infinite gap Jacobi matrices"; with J.S.Christiansen. 
 [Annales Henri Poincaré 18 (2017), 1949–1976](http://dx.doi.org/10.1007/s00023-016-0546-x)
-- "Asymptotics of Chebyshev Polynomials, I. Subsets of $\mathbb R$"; with J.S.Christiansen and B.Simon. 
-[Inventiones Mathematicae 208 (2017), 217–245](http://dx.doi.org/10.1007/s00222-016-0689-x)
 - "On spectral theory for Schrödinger operators with operator-valued potentials"; with F.Gesztesy and R.Weikard. 
 [Journal of Differential Equations 255 (2013), 1784–1827](http://dx.doi.org/10.1016/j.jde.2013.05.022)
 - "The Hilbert transform of a measure"; with A.Poltoratski and B.Simon. 
