@@ -277,7 +277,7 @@ Other Writings:
 <li>
 <q>Matrix Analysis and Spectral Theory</q>; 
 with Anna Skripka. 
-<i>MCTP minicourse</i>, 2013. 
+MCTP minicourse, 2013. 
 <a href="https://sites.google.com/site/maximmath/publications/LinAlg%26SpTh.pdf" target="_blank">[PDF]</a>
 </li>
 

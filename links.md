@@ -23,15 +23,12 @@ Articles:
 <li><a href="http://www.ams.org/notices/199701/comm-rota.pdf" target="_blank">Rota's 10 Lessons</a></li>
 <li><a href="http://www.ams.org/journals/notices/200709/tx070901136p.pdf" target="_blank">Halmos In His Own Words</a></li>
 <li><a href="http://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf" target="_blank">Advice from Companion to Mathematics</a></li>
-<li><a href="https://www.artofproblemsolving.com/articles/calculus-trap" target="_blank">Calculus Trap</a><br>
-</li>
+<li><a href="https://www.artofproblemsolving.com/articles/calculus-trap" target="_blank">Calculus Trap</a></li>
 <li><a href="http://www.econ.ucdavis.edu/faculty/scarrell/profqual2.pdf" target="_blank">Does Professor Quality Matter</a></li>
 <li><a href="https://www.insidehighered.com/news/2016/09/21/new-study-could-be-another-nail-coffin-validity-student-evaluations-teaching" target="_blank">No Correlation between Evaluations &amp; Learning</a></li>
-<li><a href="https://www.insidehighered.com/news/2017/05/10/study-student-ratings-instructors-dependent-discipline-quantitative-fields-are-most?utm_source=Inside+Higher+Ed&amp;utm_campaign=0a6e0af061-DNU20170510&amp;utm_medium=email&amp;utm_term=0_1fcbc04421-0a6e0af061-199404509&amp;mc_cid=0a6e0af061&amp;mc_eid=35dcb92590" target="_blank">What Evaluations are Really Measuring?</a><br>
-</li>
+<li><a href="https://www.insidehighered.com/news/2017/05/10/study-student-ratings-instructors-dependent-discipline-quantitative-fields-are-most?utm_source=Inside+Higher+Ed&amp;utm_campaign=0a6e0af061-DNU20170510&amp;utm_medium=email&amp;utm_term=0_1fcbc04421-0a6e0af061-199404509&amp;mc_cid=0a6e0af061&amp;mc_eid=35dcb92590" target="_blank">What Evaluations are Really Measuring?</a></li>
 <li><a href="http://www.ams.org/profession/leaders/culture/culture" target="_blank">AMS Mathematics Culture Statements</a></li>
-<li><a href="https://80000hours.org/career-guide/" target="_blank">80,000 hours career guide </a><br>
-</li>
+<li><a href="https://80000hours.org/career-guide/" target="_blank">80,000 hours career guide </a></li>
 </ul>
 
 UNM:
@@ -52,8 +49,7 @@ UNM:
 Albuquerque:
 <ul>
 <li><a href="http://wmb.unm.edu/?busid=11+140+141+12+66+766+777" target="_blank">ABQ bus tracker</a></li>
-<li><a href="http://data.cabq.gov/transit/Maps/All-wkday%20and%20wkend.pdf/" target="_blank">ABQ bus schedule</a><br>
-</li>
+<li><a href="http://data.cabq.gov/transit/Maps/All-wkday%20and%20wkend.pdf/" target="_blank">ABQ bus schedule</a></li>
 <li><a href="http://www.urbanspoon.com/c/60/Albuquerque-restaurants.html" target="_blank">ABQ restaurants</a></li>
 </ul>
 
@@ -64,6 +60,7 @@ Free Courses:
 <li><a href="https://www.edx.org/" target="_blank">edX</a></li>
 <li><a href="https://www.class-central.com/" target="_blank">Class Central</a></li>
 </ul>
+
 Rankings and Citations:
 <ul>
 <li><a href="http://www.ams.org.libproxy.unm.edu/mathscinet/citations.html" target="_blank">MathSciNet Journal Ranking</a></li>
@@ -71,40 +68,31 @@ Rankings and Citations:
 <li><a href="http://qualis.capes.gov.br/webqualis/principal.seam" target="_blank">Brazilian Journal Ranking</a></li>
 <li><a href="https://jcr.incites.thomsonreuters.com/JCRJournalHomeAction.action" target="_blank">InCites Thomson Reuters JCR</a></li>
 <li><a href="http://www.scimagojr.com/journalrank.php?area=2600" target="_blank">Scimago Journal Ranking</a></li>
-<li><a href="https://www.scopus.com/freelookup/form/author.uri" target="_blank">Scopus Author Search</a><br>
-</li>
+<li><a href="https://www.scopus.com/freelookup/form/author.uri" target="_blank">Scopus Author Search</a></li>
 <li><a href="http://www.ams.org/notices/201105/rtx110500653p.pdf" target="_blank">Scientific impact in different fields</a></li>
-<li><a href="http://www.graduateprograms.com/top-mathematics-programs/" target="_blank">Student's Ranking of Math Programs</a>
-</li>
+<li><a href="http://www.graduateprograms.com/top-mathematics-programs/" target="_blank">Student's Ranking of Math Programs</a></li>
 <li><a href="http://www.usnews.com/education/best-global-universities/mathematics" target="_blank">US News Math Programs Ranking</a></li>
-<li><a href="http://www.washingtonmonthly.com/college_guide/rankings-other-college-guide/best-bang-for-buck-west-rank.php" target="_blank">Best Bang for the Buck Universities</a><br>
-</li>
+<li><a href="http://www.washingtonmonthly.com/college_guide/rankings-other-college-guide/best-bang-for-buck-west-rank.php" target="_blank">Best Bang for the Buck Universities</a></li>
 </ul>
 
 Software:
 <ul><li><a href="http://phet.colorado.edu/en/simulations/category/math" target="_blank">Math Apps</a></li>
 <li><a href="http://www.flashandmath.com/mathlets/" target="_blank">Math Plotters</a></li>
-<li><a href="http://www.webgraphing.com/" target="_blank">Web Graphing</a></li>
 <li><a href="https://www.desmos.com/calculator" target="_blank">Desmos Graphing Calc</a></li>
 <li><a href="https://www.desmos.com/calculator/nqom2ih05g" target="_blank">Desmos 3D</a></li>
-<li><a href="http://www.wolframalpha.com/" target="_blank">Wolfram Alpha</a><br>
-</li>
-<li><a href="http://freemat.sourceforge.net/" target="_blank">FreeMat</a><br>
-</li>
-<li><a href="http://www.compileonline.com/execute_matlab_online.php" target="_blank">Online Matlab Compiler</a><br>
-</li>
+<li><a href="http://www.wolframalpha.com/" target="_blank">Wolfram Alpha</a></li>
+<li><a href="http://freemat.sourceforge.net/" target="_blank">FreeMat</a></li>
+<li><a href="http://www.compileonline.com/execute_matlab_online.php" target="_blank">Online Matlab Compiler</a></li>
 <li><a href="http://www.codecogs.com/latex/eqneditor.php" target="_blank">Online LaTex Editor</a></li>
 
 <li><a href="http://www.mathjax.org/" target="_blank">MathJax</a></li>
 <li><a href="http://www.latextemplates.com/" target="_blank">LaTex Templates</a></li>
-<li><a href="http://mathonline.missouri.edu/" target="_blank">Prep tests</a><br>
-</li>
+<li><a href="http://mathonline.missouri.edu/" target="_blank">Prep tests</a></li>
 </ul>
 
 Misc:
 <ul>
-<li><a href="https://exchanges.state.gov/non-us/program/fulbright-visiting-scholar-program" target="_blank">Fulbright Postdoc</a><br>
-</li>
+<li><a href="https://exchanges.state.gov/non-us/program/fulbright-visiting-scholar-program" target="_blank">Fulbright Postdoc</a></li>
 <li><a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201" target="_blank">NSF Graduate Research Fellowship Program</a></li>
 <li><a href="http://internetanalysisseminar.gatech.edu/" target="_blank">Internet Seminar</a></li>
 <li><a href="http://searchonmath.com/" target="_blank">Search On Math</a></li>
@@ -126,8 +114,7 @@ Wiki:
 <ul>
 <li><a href="http://dlmf.nist.gov/" target="_blank">NIST Library of Functions</a></li>
 <li><a href="http://people.math.sfu.ca/~cbm/aands/">Abramowitz &amp; Stegun</a></li>
-<li><a href="http://homepage.tudelft.nl/11r49/askey/index.html" target="_blank">Hypergeometric OP</a><br>
-</li>
+<li><a href="http://homepage.tudelft.nl/11r49/askey/index.html" target="_blank">Hypergeometric OP</a></li>
 <li><a href="http://www.numericana.com/answer/index.htm" target="_blank">Numericana</a></li>
 <li><a href="http://www.math24.net/" target="_blank">Math24</a></li>
 <li><a href="http://www.scholarpedia.org" target="_blank">Scolarpedia</a></li>
@@ -139,6 +126,5 @@ Wiki:
 <li><a href="http://proofwiki.org" target="_blank">ProofWiki</a></li>
 <li><a href="http://wiki.math.toronto.edu/DispersiveWiki/" target="_blank">DispersiveWiki</a></li>
 <li><a href="https://en.wikipedia.org/wiki/List_of_mathematics_journals" target="_blank">Math Journals</a></li>
-<li><a href="https://www.snpedia.com/index.php/SNPedia" target="_blank">SMPedia</a><br>
-</li>
+<li><a href="https://www.snpedia.com/index.php/SNPedia" target="_blank">SMPedia</a></li>
 </ul>
