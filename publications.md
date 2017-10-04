@@ -265,7 +265,7 @@ In <i>Proceeding of the 14th International Conference on Difference Equations an
 <li>
 <q>On Dirichlet-to-Neumann maps and some applications to modified Fredholm  determinants</q>; 
 with Fritz Gesztesy and Marius Mitrea.
-In <i>Proceedings of the conference on Operator Theory, Analysis in Mathematical Physics - OTAMP 2006</i>, J. Janas, P. Kurasov, A. Laptev, S. Naboko, and G. Stolz (eds.), Operator Theory: Advances and Applications, Vol. 78, Birkhäuser, Basel, 2008, pp. 191-215.
+In <i>Proceedings of the conference on Operator Theory, Analysis in Mathematical Physics - OTAMP 2006</i>, J. Janas, P. Kurasov, A. Laptev, S. Naboko, and G. Stolz (eds.), <i>Operator Theory: Advances and Applications</i>, Vol. 78, Birkhäuser, Basel, 2008, pp. 191-215.
 <a href="https://arxiv.org/pdf/1002.0389">[PDF]</a>
 </li>
 </ul>
