@@ -90,7 +90,9 @@ Rankings and Citations:
 </ul>
 
 Software:
-<ul><li><a href="http://phet.colorado.edu/en/simulations/category/math" target="_blank">Math Apps</a></li>
+<ul>
+<li><a href="http://app.ithenticate.com" target="_blank">iThenticate</a></li>
+<li><a href="http://phet.colorado.edu/en/simulations/category/math" target="_blank">Math Apps</a></li>
 <li><a href="http://www.flashandmath.com/mathlets/" target="_blank">Math Plotters</a></li>
 <li><a href="https://www.desmos.com/calculator" target="_blank">Desmos Graphing Calc</a></li>
 <li><a href="https://www.desmos.com/calculator/nqom2ih05g" target="_blank">Desmos 3D</a></li>
