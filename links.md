@@ -17,18 +17,32 @@ Books:
 
 Articles:
 <ul>
-<li><a href="https://math.berkeley.edu/~gmelvin/polya.pdf" target="_blank">Polya's Problem Solving Techniques</a></li>
-<li><a href="https://terrytao.wordpress.com/career-advice/" target="_blank">Tao's Career Advice</a></li>
-<li><a href="https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/" target="_blank">Tao's Problem Solving Strategies</a></li>
-<li><a href="http://www.ams.org/notices/199701/comm-rota.pdf" target="_blank">Rota's 10 Lessons</a></li>
-<li><a href="http://www.ams.org/journals/notices/200709/tx070901136p.pdf" target="_blank">Halmos In His Own Words</a></li>
-<li><a href="http://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf" target="_blank">Advice from Companion to Mathematics</a></li>
-<li><a href="https://www.artofproblemsolving.com/articles/calculus-trap" target="_blank">Calculus Trap</a></li>
-<li><a href="http://www.econ.ucdavis.edu/faculty/scarrell/profqual2.pdf" target="_blank">Does Professor Quality Matter</a></li>
-<li><a href="https://www.insidehighered.com/news/2016/09/21/new-study-could-be-another-nail-coffin-validity-student-evaluations-teaching" target="_blank">No Correlation between Evaluations &amp; Learning</a></li>
-<li><a href="https://www.insidehighered.com/news/2017/05/10/study-student-ratings-instructors-dependent-discipline-quantitative-fields-are-most?utm_source=Inside+Higher+Ed&amp;utm_campaign=0a6e0af061-DNU20170510&amp;utm_medium=email&amp;utm_term=0_1fcbc04421-0a6e0af061-199404509&amp;mc_cid=0a6e0af061&amp;mc_eid=35dcb92590" target="_blank">What Evaluations are Really Measuring?</a></li>
-<li><a href="http://www.ams.org/profession/leaders/culture/culture" target="_blank">AMS Mathematics Culture Statements</a></li>
-<li><a href="https://80000hours.org/career-guide/" target="_blank">80,000 hours career guide </a></li>
+<li><a href="https://math.berkeley.edu/~gmelvin/polya.pdf" target="_blank">
+Polya's Problem Solving Techniques</a></li>
+<li><a href="https://terrytao.wordpress.com/career-advice/" target="_blank">
+Tao's Career Advice</a></li>
+<li><a href="https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/" target="_blank">
+Tao's Problem Solving Strategies</a></li>
+<li><a href="http://www.ams.org/notices/199701/comm-rota.pdf" target="_blank">
+Rota's 10 Lessons</a></li>
+<li><a href="http://www.ams.org/journals/notices/200709/tx070901136p.pdf" target="_blank">
+Halmos In His Own Words</a></li>
+<li><a href="http://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf" target="_blank">
+Advice from Companion to Mathematics</a></li>
+<li><a href="https://www.artofproblemsolving.com/articles/calculus-trap" target="_blank">
+Calculus Trap</a></li>
+<li><a href="http://www.econ.ucdavis.edu/faculty/scarrell/profqual2.pdf" target="_blank">
+Does Professor Quality Matter</a></li>
+<li><a href="https://www.insidehighered.com/news/2016/09/21/new-study-could-be-another-nail-coffin-validity-student-evaluations-teaching" target="_blank">
+No Correlation between Evaluations &amp; Learning</a></li>
+<li><a href="https://www.insidehighered.com/news/2017/05/10/study-student-ratings-instructors-dependent-discipline-quantitative-fields-are-most?utm_source=Inside+Higher+Ed&amp;utm_campaign=0a6e0af061-DNU20170510&amp;utm_medium=email&amp;utm_term=0_1fcbc04421-0a6e0af061-199404509&amp;mc_cid=0a6e0af061&amp;mc_eid=35dcb92590" target="_blank">
+What Evaluations are Really Measuring?</a></li>
+<li><a href="http://www.gradeinflation.com/" target="_blank">
+Grade Inflation Trends</a></li>
+<li><a href="http://www.ams.org/profession/leaders/culture/culture" target="_blank">
+AMS Mathematics Culture Statements</a></li>
+<li><a href="https://80000hours.org/career-guide/" target="_blank">
+80,000 hours career guide </a></li>
 </ul>
 
 UNM:
