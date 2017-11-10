@@ -7,6 +7,8 @@ tags:
 
 #### Current
 
+- Sp 2018, Math 321, [Linear Algebra with Proofs](http://math.unm.edu/~maxim/math321/)
+
 - Fa 2017, Math 316, [Applied Ordinary Differential Equations](http://math.unm.edu/~maxim/math316/)
 
 #### Past
