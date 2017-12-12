@@ -84,8 +84,8 @@ Rankings and Citations:
 <li><a href="http://www.scimagojr.com/journalrank.php?area=2600" target="_blank">Scimago Journal Ranking</a></li>
 <li><a href="https://www.scopus.com/freelookup/form/author.uri" target="_blank">Scopus Author Search</a></li>
 <li><a href="http://www.ams.org/notices/201105/rtx110500653p.pdf" target="_blank">Scientific impact in different fields</a></li>
-<li><a href="http://www.graduateprograms.com/top-mathematics-programs/" target="_blank">Student's Ranking of Math Programs</a></li>
 <li><a href="http://www.usnews.com/education/best-global-universities/mathematics" target="_blank">US News Math Programs Ranking</a></li>
+<li><a href="https://www.usnews.com/best-graduate-schools/search?program=top-mathematics-programs&name=&sort=program_rank&sortdir=asc">US News Math Grad Schools Ranking</a></li>
 <li><a href="http://www.washingtonmonthly.com/college_guide/rankings-other-college-guide/best-bang-for-buck-west-rank.php" target="_blank">Best Bang for the Buck Universities</a></li>
 </ul>
 
