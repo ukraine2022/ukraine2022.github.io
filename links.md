@@ -49,7 +49,6 @@ UNM:
 <ul>
 <li><a href="http://library.unm.edu/find/prform.php" target="_blank">Library Purchase Request</a></li>
 <li><a href="https://unmevents.unm.edu/" target="_blank">UNM Events Calendar</a></li>
-<li><a href="http://caps.unm.edu/writing/about/undergrad/" target="_blank">Undergraduate writing help</a></li>
 <li><a href="http://unmgrc.unm.edu/support-services/graduate-writing-support/individual-consultations.html" target="_blank">Graduate writing help</a></li>
 <li><a href="http://it.unm.edu/download/titles/Matlab-Installation-2015r.pdf" target="_blank">MATLAB</a></li>
 <li><a href="http://registrar.unm.edu/" target="_blank">Registrar</a></li>
@@ -86,7 +85,6 @@ Rankings and Citations:
 <li><a href="http://www.ams.org/notices/201105/rtx110500653p.pdf" target="_blank">Scientific impact in different fields</a></li>
 <li><a href="http://www.usnews.com/education/best-global-universities/mathematics" target="_blank">US News Math Programs Ranking</a></li>
 <li><a href="https://www.usnews.com/best-graduate-schools/search?program=top-mathematics-programs&name=&sort=program_rank&sortdir=asc">US News Math Grad Schools Ranking</a></li>
-<li><a href="http://www.washingtonmonthly.com/college_guide/rankings-other-college-guide/best-bang-for-buck-west-rank.php" target="_blank">Best Bang for the Buck Universities</a></li>
 </ul>
 
 Software:
@@ -100,10 +98,8 @@ Software:
 <li><a href="http://freemat.sourceforge.net/" target="_blank">FreeMat</a></li>
 <li><a href="http://www.compileonline.com/execute_matlab_online.php" target="_blank">Online Matlab Compiler</a></li>
 <li><a href="http://www.codecogs.com/latex/eqneditor.php" target="_blank">Online LaTex Editor</a></li>
-
 <li><a href="http://www.mathjax.org/" target="_blank">MathJax</a></li>
 <li><a href="http://www.latextemplates.com/" target="_blank">LaTex Templates</a></li>
-<li><a href="http://mathonline.missouri.edu/" target="_blank">Prep tests</a></li>
 </ul>
 
 Misc:
@@ -112,17 +108,10 @@ Misc:
 <li><a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201" target="_blank">NSF Graduate Research Fellowship Program</a></li>
 <li><a href="http://internetanalysisseminar.gatech.edu/" target="_blank">Internet Seminar</a></li>
 <li><a href="http://searchonmath.com/" target="_blank">Search On Math</a></li>
-<li><a href="http://explorer.opensyllabusproject.org/" target="_blank">Syllabus Explorer</a></li>
-<li><a href="https://piazza.com/" target="_blank">Piazza Q&amp;A</a></li>
-<li><a href="http://cgi.stanford.edu/~dept-ctl/cgi-bin/tomprof/postings.php" target="_blank">Tomorrow's Prof. ML</a></li>
 <li><a href="https://ua.unm.edu/travel/meal-per-diem.html" target="_blank">Per Dime Rates</a></li>
 <li><a href="http://www.ams.org/findgradprograms" target="_blank">AMS List of Math Programs</a></li>
 <li><a href="http://www.gmarks.org/StudentEmploymentResources.html" target="_blank">Employment resources for students</a></li>
-
 <li><a href="http://web.mit.edu/rsi/www/pdfs/StatsAndData.pdf" target="_blank">Stat Cheat Sheet</a></li>
-<li><a href="http://www.dam.brown.edu/people/mumford/blog/2015/MathBeautyBrain.html" target="_blank">Math &amp; Beauty &amp; Brain Areas</a></li>
-<li><a href="https://www.siam.org/pdf/news/637.pdf" target="_blank">Top 10 algorithms of 20th century</a></li>
-<li><a href="https://undergroundmathematics.org/" target="_blank">Undergrad Math Tube Lines</a></li>
 <li><a href="http://www.mcdonald.me.uk/storytelling/lichert_article.htm" target="_blank">Adjective Ladder</a></li>
 </ul>
 
