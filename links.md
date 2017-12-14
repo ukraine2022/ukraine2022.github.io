@@ -41,8 +41,6 @@ What Evaluations are Really Measuring?</a></li>
 Grade Inflation Trends</a></li>
 <li><a href="http://www.ams.org/profession/leaders/culture/culture" target="_blank">
 AMS Mathematics Culture Statements</a></li>
-<li><a href="https://80000hours.org/career-guide/" target="_blank">
-80,000 hours career guide </a></li>
 </ul>
 
 UNM:
