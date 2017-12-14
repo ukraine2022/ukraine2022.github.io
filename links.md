@@ -50,6 +50,8 @@ UNM:
 <li><a href="http://unmgrc.unm.edu/support-services/graduate-writing-support/individual-consultations.html" target="_blank">Graduate writing help</a></li>
 <li><a href="http://it.unm.edu/download/titles/Matlab-Installation-2015r.pdf" target="_blank">MATLAB</a></li>
 <li><a href="http://registrar.unm.edu/" target="_blank">Registrar</a></li>
+<li><a href="https://ua.unm.edu/travel/meal-per-diem.html" target="_blank">Per Dime Rates</a></li>
+<li><a href="http://registrar.unm.edu/reports--statistics/" target="_blank">Old Schedules</a></li>
 <li><a href="http://registrar.unm.edu/academic-calendar/ten-year-semester-dates-calendar.html" target="_blank">Semester dates</a></li>
 <li><a href="http://catalog-devl.unm.edu/catalogs/2014-2015/colleges/arts-sciences/math-stat/index.html" target="_blank">Catalog</a></li>
 <li><a href="http://math.unm.edu/internal/catalog.php" target="_blank">Math Courses</a></li>
@@ -106,7 +108,6 @@ Misc:
 <li><a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201" target="_blank">NSF Graduate Research Fellowship Program</a></li>
 <li><a href="http://internetanalysisseminar.gatech.edu/" target="_blank">Internet Seminar</a></li>
 <li><a href="http://searchonmath.com/" target="_blank">Search On Math</a></li>
-<li><a href="https://ua.unm.edu/travel/meal-per-diem.html" target="_blank">Per Dime Rates</a></li>
 <li><a href="http://www.ams.org/findgradprograms" target="_blank">AMS List of Math Programs</a></li>
 <li><a href="http://www.gmarks.org/StudentEmploymentResources.html" target="_blank">Employment resources for students</a></li>
 <li><a href="http://web.mit.edu/rsi/www/pdfs/StatsAndData.pdf" target="_blank">Stat Cheat Sheet</a></li>
