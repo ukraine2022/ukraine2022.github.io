@@ -7,9 +7,8 @@ tags:
 
 #### Putnam Exam at UNM
 Date/Time: First Saturday in December, 8:30am-11:30am, 1:30pm-4:30pm.<br>
-Location: Will be announced to registered students by email before November 30.<br>
-Registration: Email your name and UNM ID to &lt;<script>document.write(
-'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt; by September 30.<br>
+Location: Will be emailed to registered students by November 30.<br>
+To register: Send me your name and your UNM ID by September 30.<br>
 
 #### Putnam Problem of the Day
 <img src="http://www.math.harvard.edu/putnam/day.gif" width="100%" border="0">
@@ -21,7 +20,9 @@ The Putnam examination tests originality, technical competence and familiarity w
 
 All students with interests in the mathematical sciences are strongly encouraged to participate. Students taking part in and preparing for the competition learn a lot about general mathematical skills such as solving problems and proving statements. Graduate schools and other employers can be impressed by high Putnam scores.
 
-Each institution is required to submit an official list of participating students. Those who are on this list are guaranteed entry in the Putnam, others may be able to participate on a walk-on basis provided there are sufficiently many no-shows at the contest. 
+Each institution is required to submit an official list of participating students. Those who are on this list are guaranteed entry in the Putnam, others may be able to participate on a walk-on basis provided there are sufficiently many no-shows at the contest. If you are interested in taking the Putnam exam please send an email to &lt;<script>document.write(
+'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt; 
+with your name and your student id by the end of September.
 
 #### Putnam Problems Archive and Resources
 <ul>
