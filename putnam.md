@@ -22,7 +22,7 @@ All students with interests in the mathematical sciences are strongly encouraged
 
 Each institution is required to submit an official list of participating students. Those who are on this list are guaranteed entry in the Putnam, others may be able to participate on a walk-on basis provided there are sufficiently many no-shows at the contest. If you are interested in taking the Putnam exam please send an email to &lt;<script>document.write(
 'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt; 
-with your name and your student id by the end of September.
+with your full name and your student id by the end of September.
 
 #### Putnam Problems Archive and Resources
 <ul>
