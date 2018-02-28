@@ -26,8 +26,10 @@ with your full name and your student id by the end of September.
 
 #### Putnam Problems Archive and Resources
 <ul>
-<li><a href="http://math.scu.edu/putnam/" target="_blank">Official Putnam Website</a></li>
-<li><a href="http://kskedlaya.org/putnam-archive/" target="_blank">Past problems and solutions</a></li>
+<li><a href="https://www.maa.org/math-competitions/putnam-competition" target="_blank">
+ Putnam Mathematical Competition</a></li>
+<li><a href="http://kskedlaya.org/putnam-archive/" target="_blank">
+ Past problems and solutions</a></li>
 
 <li>Books:</li>
 <ul>
