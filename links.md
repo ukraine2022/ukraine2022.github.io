@@ -100,6 +100,7 @@ Software:
 <li><a href="http://www.codecogs.com/latex/eqneditor.php" target="_blank">Online LaTex Editor</a></li>
 <li><a href="http://www.mathjax.org/" target="_blank">MathJax</a></li>
 <li><a href="http://www.latextemplates.com/" target="_blank">LaTex Templates</a></li>
+<li><a href="https://www.rpi.edu/dept/arc/training/latex/resumes/" target="_blank">LaTex Resumes</a></li>
 </ul>
 
 Misc:
