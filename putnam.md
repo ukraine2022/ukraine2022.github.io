@@ -24,12 +24,10 @@ Each institution is required to submit an official list of participating student
 'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt; 
 with your full name and your student id by the end of September.
 
-#### Putnam Problems Archive and Resources
+#### Putnam Competition Resources
 <ul>
 <li><a href="https://www.maa.org/math-competitions/putnam-competition" target="_blank">
  Putnam Mathematical Competition</a></li>
-<li><a href="http://kskedlaya.org/putnam-archive/" target="_blank">
- Past problems and solutions</a></li>
 
 <li>Books:</li>
 <ul>
@@ -86,4 +84,7 @@ with your full name and your student id by the end of September.
 </ul>
 
 <li><a href="http://math.stackexchange.com/questions/305700/studying-for-the-putnam-exam" target="_blank">Studying for Putnam</a></li>
+
+<li><a href="http://kskedlaya.org/putnam-archive/" target="_blank"> 
+ Putnam Problems Archive</a></li>
 </ul>
