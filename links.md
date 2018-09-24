@@ -48,14 +48,9 @@ UNM:
 <li><a href="http://library.unm.edu/find/prform.php" target="_blank">Library Purchase Request</a></li>
 <li><a href="https://unmevents.unm.edu/" target="_blank">UNM Events Calendar</a></li>
 <li><a href="http://unmgrc.unm.edu/support-services/graduate-writing-support/individual-consultations.html" target="_blank">Graduate writing help</a></li>
-<li><a href="http://it.unm.edu/download/titles/Matlab-Installation-2015r.pdf" target="_blank">MATLAB</a></li>
-<li><a href="http://registrar.unm.edu/" target="_blank">Registrar</a></li>
 <li><a href="https://ua.unm.edu/travel/meal-per-diem.html" target="_blank">Per Dime Rates</a></li>
 <li><a href="http://registrar.unm.edu/reports--statistics/" target="_blank">Old Schedules</a></li>
 <li><a href="http://registrar.unm.edu/academic-calendar/ten-year-semester-dates-calendar.html" target="_blank">Semester dates</a></li>
-<li><a href="http://catalog-devl.unm.edu/catalogs/2014-2015/colleges/arts-sciences/math-stat/index.html" target="_blank">Catalog</a></li>
-<li><a href="http://math.unm.edu/internal/catalog.php" target="_blank">Math Courses</a></li>
-<li><a href="http://www.math.unm.edu/mctp/" target="_blank">MCTP program</a></li>
 <li><a href="http://ppd.unm.edu/assets/documents/campus-maps/visitormapcentral_numeric.pdf" target="_blank">Campus Map</a></li>
 </ul>
 
@@ -64,14 +59,6 @@ Albuquerque:
 <li><a href="http://wmb.unm.edu/?busid=11+140+141+12+66+766+777" target="_blank">ABQ bus tracker</a></li>
 <li><a href="http://data.cabq.gov/transit/Maps/All-wkday%20and%20wkend.pdf/" target="_blank">ABQ bus schedule</a></li>
 <li><a href="http://www.urbanspoon.com/c/60/Albuquerque-restaurants.html" target="_blank">ABQ restaurants</a></li>
-</ul>
-
-Free Courses:
-<ul>
-<li><a href="https://www.coursera.org/" target="_blank">Coursera</a></li>
-<li><a href="https://www.udacity.com/" target="_blank">Udacity</a></li>
-<li><a href="https://www.edx.org/" target="_blank">edX</a></li>
-<li><a href="https://www.class-central.com/" target="_blank">Class Central</a></li>
 </ul>
 
 Rankings and Citations:
@@ -90,8 +77,6 @@ Rankings and Citations:
 Software:
 <ul>
 <li><a href="http://app.ithenticate.com" target="_blank">iThenticate</a></li>
-<li><a href="http://phet.colorado.edu/en/simulations/category/math" target="_blank">Math Apps</a></li>
-<li><a href="http://www.flashandmath.com/mathlets/" target="_blank">Math Plotters</a></li>
 <li><a href="https://www.desmos.com/calculator" target="_blank">Desmos Graphing Calc</a></li>
 <li><a href="https://www.desmos.com/calculator/nqom2ih05g" target="_blank">Desmos 3D</a></li>
 <li><a href="http://www.wolframalpha.com/" target="_blank">Wolfram Alpha</a></li>
@@ -107,7 +92,6 @@ Misc:
 <ul>
 <li><a href="https://exchanges.state.gov/non-us/program/fulbright-visiting-scholar-program" target="_blank">Fulbright Postdoc</a></li>
 <li><a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201" target="_blank">NSF Graduate Research Fellowship Program</a></li>
-<li><a href="http://internetanalysisseminar.gatech.edu/" target="_blank">Internet Seminar</a></li>
 <li><a href="http://searchonmath.com/" target="_blank">Search On Math</a></li>
 <li><a href="http://www.ams.org/findgradprograms" target="_blank">AMS List of Math Programs</a></li>
 <li><a href="http://www.gmarks.org/StudentEmploymentResources.html" target="_blank">Employment resources for students</a></li>
