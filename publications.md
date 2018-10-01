@@ -20,12 +20,14 @@ Journal Articles:
 <li>
 <q>Asymptotics of Chebyshev polynomials, III. Sets saturating Szegö, Schiefermayr, and Totik-Widom bounds</q>; 
 with Jacob Christiansen and Barry Simon. 
+<i>Oper. Theory Adv. Appl.</i> (to appear)
 <a href="https://arxiv.org/pdf/1712.03482.pdf">[PDF]</a>
 </li>
 
 <li>
 <q>Asymptotics of Chebyshev polynomials, II. DCT subsets of R</q>; 
 with Jacob Christiansen, Barry Simon, and Peter Yuditskii. 
+<i>Duke Math. J.</i> (to appear)
 <a href="https://arxiv.org/pdf/1709.06707">[PDF]</a>
 </li>
 
