@@ -45,10 +45,9 @@ AMS Mathematics Culture Statements</a></li>
 
 UNM:
 <ul>
-<li><a href="http://library.unm.edu/find/prform.php" target="_blank">Library Purchase Request</a></li>
 <li><a href="https://unmevents.unm.edu/" target="_blank">UNM Events Calendar</a></li>
 <li><a href="http://unmgrc.unm.edu/support-services/graduate-writing-support/individual-consultations.html" target="_blank">Graduate writing help</a></li>
-<li><a href="https://ua.unm.edu/travel/meal-per-diem.html" target="_blank">Per Dime Rates</a></li>
+<li><a href="http://library.unm.edu/find/prform.php" target="_blank">Library Purchase Request</a></li>
 <li><a href="http://registrar.unm.edu/reports--statistics/" target="_blank">Old Schedules</a></li>
 <li><a href="http://registrar.unm.edu/academic-calendar/ten-year-semester-dates-calendar.html" target="_blank">Semester dates</a></li>
 <li><a href="http://ppd.unm.edu/assets/documents/campus-maps/visitormapcentral_numeric.pdf" target="_blank">Campus Map</a></li>
