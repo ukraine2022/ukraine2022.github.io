@@ -13,6 +13,7 @@ My research interests are in the areas of spectral and inverse spectral theory, 
 
 Selected publications:
 
+- "Asymptotics of Chebyshev polynomials, II. DCT subsets of $\mathbb R$"; with J.S.Christiansen, B.Simon, and P.Yuditskii. [Duke Mathematical Journal (to appear)](https://projecteuclid.org/accepted/euclid.dmj)
 - "Asymptotics of Chebyshev polynomials, I. Subsets of $\mathbb R$"; with J.S.Christiansen and B.Simon. 
 [Inventiones Mathematicae 208 (2017), 217–245](http://dx.doi.org/10.1007/s00222-016-0689-x)
 - "Renormalized oscillation theory for Hamiltonian systems"; with F.Gesztesy. 
