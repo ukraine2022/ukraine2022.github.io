@@ -7,7 +7,7 @@ tags:
 
 #### Next Semester
 
-- Math 569, [ST: Functional Analysis II]
+- Math 569, *ST: Functional Analysis II* **(Spring 2019)**
 
 #### Current
 
