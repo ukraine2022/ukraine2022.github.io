@@ -20,9 +20,9 @@ The Putnam examination tests originality, technical competence and familiarity w
 
 All students with interests in the mathematical sciences are strongly encouraged to participate. Students taking part in and preparing for the competition learn a lot about general mathematical skills such as solving problems and proving statements. Graduate schools and other employers can be impressed by high Putnam scores.
 
-Each institution is required to submit an official list of participating students. Those who are on this list are guaranteed entry in the Putnam, others may be able to participate on a walk-on basis provided there are sufficiently many no-shows at the contest. If you are interested in taking the Putnam exam please send an email to &lt;<script>document.write(
+If you are interested in taking the Putnam exam please send an email to &lt;<script>document.write(
 'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt; 
-with your full name and your student id by the end of September.
+with your full name and your UNM student ID by the end of September (this is to reserve a spot for you at the competition). A limited number of students might also be able to participate on a walk-in basis on the day of the competition.
 
 #### Putnam Competition Resources
 <ul>
@@ -41,7 +41,6 @@ with your full name and your student id by the end of September.
  Problem-Solving Strategies</a>, 1998</li>
 <li>Zeitz, <a href="http://amzn.to/2sXnAVA" target="_blank">
  The Art and Craft of Problem Solving</a>, 2007</li>
-
 <li>Steele, <a href="http://amzn.to/2u5FZPo" target="_blank">
  Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities</a>, 2004</li>
 <li>Andreescu, <a href="http://amzn.to/2u0V1WV" target="_blank">
