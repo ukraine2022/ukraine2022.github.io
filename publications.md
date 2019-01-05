@@ -27,14 +27,14 @@ with Jacob Christiansen and Barry Simon.
 <li>
 <q>Asymptotics of Chebyshev polynomials, III. Sets saturating Szegö, Schiefermayr, and Totik-Widom bounds</q>; 
 with Jacob Christiansen and Barry Simon. 
-<i>Oper. Theory Adv. Appl.</i> (to appear),
+<i>Oper. Theory Adv. Appl.</i> (to appear)
 <a href="https://arxiv.org/pdf/1712.03482.pdf">[PDF]</a>
 </li>
 
 <li>
 <q>Asymptotics of Chebyshev polynomials, II. DCT subsets of $\mathbb R$</q>; 
 with Jacob Christiansen, Barry Simon, and Peter Yuditskii. 
-<i>Duke Math. J.</i> (to appear),
+<i>Duke Math. J.</i> (to appear)
 <a href="https://arxiv.org/pdf/1709.06707">[PDF]</a>
 </li>
 
@@ -69,7 +69,7 @@ with Jacob Christiansen and Barry Simon.
 <li>
 <q>Donoghue-type m-functions for Schrödinger operators with operator-valued potentials</q>; 
 with Fritz Gesztesy, Sergey Naboko, and Rudi Weikard. 
-<i>J. d'Analyse Math.</i> (to appear),
+<i>J. d'Analyse Math.</i> (to appear)
 <a href="https://arxiv.org/pdf/1506.06324">[PDF]</a>
 </li>
 
