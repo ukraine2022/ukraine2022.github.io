@@ -42,6 +42,7 @@ with Jacob Christiansen, Barry Simon, and Peter Yuditskii.
 <q>Renormalized oscillation theory for Hamiltonian systems</q>; 
 with Fritz Gesztesy. 
 <i>Adv. Math.</i> <b>311</b> (2017), 569-597.
+<a href="http://doi.org/10.1016/j.aim.2017.03.005">[DOI]</a>
 <a href="https://arxiv.org/pdf/1608.02116">[PDF]</a>
 </li>
 
@@ -49,6 +50,7 @@ with Fritz Gesztesy.
 <q>Lieb-Thirring inequalities for complex finite gap Jacobi matrices</q>; 
 with Jacob Christiansen. 
 <i>Lett. Math. Phys.</i> <b>107</b> (2017), 1769-1780.
+<a href="http://doi.org/10.1007/s11005-017-0961-z">[DOI]</a>
 <a href="https://arxiv.org/pdf/1609.09812">[PDF]</a>
 </li>
 
@@ -56,6 +58,7 @@ with Jacob Christiansen.
 <q>Lieb-Thirring inequalities for finite and infinite gap Jacobi matrices</q>; 
 with Jacob Christiansen. 
 <i>Ann. Henri Poincaré</i> <b>18</b> (2017), 1949–1976.
+<a href="http://doi.org/10.1007/s00023-016-0546-x">[DOI]</a>
 <a href="https://arxiv.org/pdf/1609.09566">[PDF]</a>
 </li>
 
@@ -63,6 +66,7 @@ with Jacob Christiansen.
 <q>Asymptotics of Chebyshev polynomials, I. Subsets of $\mathbb R$</q>; 
 with Jacob Christiansen and Barry Simon. 
 <i>Invent. Math.</i> <b>208</b> (2017), 217-245. 
+<a href="http://doi.org/10.1007/s00222-016-0689-x">[DOI]</a>
 <a href="https://arxiv.org/pdf/1505.02604">[PDF]</a>
 </li>
 
@@ -70,6 +74,7 @@ with Jacob Christiansen and Barry Simon.
 <q>Donoghue-type m-functions for Schrödinger operators with operator-valued potentials</q>; 
 with Fritz Gesztesy, Sergey Naboko, and Rudi Weikard. 
 <i>J. d'Analyse Math.</i> (to appear)
+<a href="http://doi.org/10.1007/s11854-018-0076-1">[DOI]</a>
 <a href="https://arxiv.org/pdf/1506.06324">[PDF]</a>
 </li>
 
