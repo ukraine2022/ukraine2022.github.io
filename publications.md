@@ -73,14 +73,15 @@ with Jacob Christiansen and Barry Simon.
 <li>
 <q>Donoghue-type m-functions for Schrödinger operators with operator-valued potentials</q>; 
 with Fritz Gesztesy, Sergey Naboko, and Rudi Weikard. 
-<i>J. d'Analyse Math.</i> (to appear)
+<i>J. d'Analyse Math.</i> (to appear) 
 <a href="http://doi.org/10.1007/s11854-018-0076-1">[DOI]</a>
 <a href="https://arxiv.org/pdf/1506.06324">[PDF]</a>
 </li>
 
 <li><q>On a perturbation determinant for antidissipative operators</q>; 
-with Konstantin A. Makarov and Anna Skripka.
+with Konstantin A. Makarov and Anna Skripka. 
 <i>Integr. Equ. Oper. Theory.</i> <b>81</b> (2015), 301-317. 
+<a href="http://doi.org/10.1007/s00020-014-2212-3">[DOI]</a>
 <a href="https://arxiv.org/pdf/1412.6633">[PDF]</a>
 </li>
 
