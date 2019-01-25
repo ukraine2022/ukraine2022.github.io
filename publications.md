@@ -34,7 +34,7 @@ with Jacob Christiansen and Barry Simon.
 <li>
 <q>Asymptotics of Chebyshev polynomials, II. DCT subsets of $\mathbb R$</q>; 
 with Jacob Christiansen, Barry Simon, and Peter Yuditskii. 
-<i>Duke Math. J.</i> (to appear)
+<i>Duke Math. J.</i> <b>168</b> (2019), 325-349
 <a href="https://doi.org/10.1215/00127094-2018-0045">[DOI]</a>
 <a href="https://arxiv.org/pdf/1709.06707">[PDF]</a>
 </li>
