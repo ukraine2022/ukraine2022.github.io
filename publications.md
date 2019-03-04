@@ -20,7 +20,7 @@ Refereed Publications:
 <li>
 <q>Asymptotics of Chebyshev Polynomials, IV. Comments on the Complex Case</q>; 
 with Jacob Christiansen and Barry Simon. 
-<i></i>
+<i>J. d'Analyse Math.</i> (to appear)
 <a href="https://arxiv.org/abs/1812.10667">[PDF]</a>
 </li>
 
