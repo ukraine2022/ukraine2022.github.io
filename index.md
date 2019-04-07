@@ -27,3 +27,7 @@ Selected publications:
 [Journal d'Analyse Mathématique 111 (2010), 247–265](http://doi.org/10.1007/s11854-010-0017-0)
 - "Right limits and reflectionless measures for CMV matrices"; with J.Breuer and E.Ryckman. 
 [Communications in Mathematical Physics 292 (2009), 1–28](http://doi.org/10.1007/s00220-009-0839-8)
+
+Editorial work:
+
+- Operators and Matrices (http://oam.ele-math.com)

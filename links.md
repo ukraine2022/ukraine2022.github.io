@@ -94,7 +94,6 @@ Misc:
 <li><a href="http://searchonmath.com/" target="_blank">Search On Math</a></li>
 <li><a href="http://www.ams.org/findgradprograms" target="_blank">AMS List of Math Programs</a></li>
 <li><a href="http://www.gmarks.org/StudentEmploymentResources.html" target="_blank">Employment resources for students</a></li>
-<li><a href="http://web.mit.edu/rsi/www/pdfs/StatsAndData.pdf" target="_blank">Stat Cheat Sheet</a></li>
 <li><a href="http://www.mcdonald.me.uk/storytelling/lichert_article.htm" target="_blank">Adjective Ladder</a></li>
 </ul>
 
