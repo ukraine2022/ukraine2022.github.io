@@ -30,4 +30,4 @@ Selected publications:
 
 Editorial work:
 
-- Operators and Matrices (http://oam.ele-math.com)
+- [Operators and Matrices](http://oam.ele-math.com)
