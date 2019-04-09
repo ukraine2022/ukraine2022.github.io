@@ -37,7 +37,7 @@ Does Professor Quality Matter</a></li>
 No Correlation between Evaluations &amp; Learning</a></li>
 <li><a href="https://www.insidehighered.com/news/2017/05/10/study-student-ratings-instructors-dependent-discipline-quantitative-fields-are-most?utm_source=Inside+Higher+Ed&amp;utm_campaign=0a6e0af061-DNU20170510&amp;utm_medium=email&amp;utm_term=0_1fcbc04421-0a6e0af061-199404509&amp;mc_cid=0a6e0af061&amp;mc_eid=35dcb92590" target="_blank">
 What Evaluations are Really Measuring?</a></li>
-<li><a href="https://www.gradeinflation.com/" target="_blank">
+<li><a href="http://www.gradeinflation.com/" target="_blank">
 Grade Inflation Trends</a></li>
 <li><a href="https://www.ams.org/profession/leaders/culture/culture" target="_blank">
 AMS Mathematics Culture Statements</a></li>
