@@ -7,7 +7,7 @@ tags:
 
 #### Next
 
-- Math 321, [Linear Algebra with Proofs](https://math.unm.edu/~maxim/321/)
+- Math 321, [Linear Algebra with Proofs](math.unm.edu/~maxim/321/)
 
 #### Current
 
