@@ -79,7 +79,7 @@ with Jacob Christiansen and Barry Simon.
 <li>
 <q>Donoghue-type m-functions for Schrödinger operators with operator-valued potentials</q>; 
 with Fritz Gesztesy, Sergey Naboko, and Rudi Weikard. 
-<i>J. d'Analyse Math.</i> (2018) 
+<i>J. d'Analyse Math.</i> 137 (2019), 373-427.
 <a href="https://doi.org/10.1007/s11854-018-0076-1" target="_blank">[DOI]</a>
 <a href="https://arxiv.org/pdf/1506.06324" target="_blank">[PDF]</a>
 </li>
