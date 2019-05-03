@@ -5,16 +5,13 @@ permalink: /courses/
 tags: 
 ---
 
-#### Next
 
 - Math 321, [Linear Algebra with Proofs](https://math.unm.edu/~maxim/321/)
 
-#### Current
-
-- Math 569, [Functional Analysis II](https://math.unm.edu/~maxim/569/)
 
 #### Past
 
+- Math 569, [Functional Analysis II](https://math.unm.edu/~maxim/569/)
 - Math 581, [Functional Analysis I](https://math.unm.edu/~maxim/581/)
 - Math 316, [Applied Ordinary Differential Equations](https://math.unm.edu/~maxim/316/)
 - Math 563, [Measure Theory](https://math.unm.edu/~maxim/563/)
