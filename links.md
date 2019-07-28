@@ -82,7 +82,7 @@ Software:
 <li><a href="https://freemat.sourceforge.net/" target="_blank">FreeMat</a></li>
 <li><a href="https://www.compileonline.com/execute_matlab_online.php" target="_blank">Online Matlab Compiler</a></li>
 <li><a href="https://www.codecogs.com/latex/eqneditor.php" target="_blank">LaTex Formula Editor</a></li>
-<li><a href="https://www.overleaf.com/" target="_blank">Overleaf LaTex Editor/Compiler</a></li>
+<li><a href="https://www.overleaf.com/" target="_blank">Overleaf Online LaTex</a></li>
 <li><a href="https://www.latextemplates.com/" target="_blank">LaTex Templates</a></li>
 <li><a href="https://www.rpi.edu/dept/arc/training/latex/resumes/" target="_blank">LaTex Resumes</a></li>
 </ul>
