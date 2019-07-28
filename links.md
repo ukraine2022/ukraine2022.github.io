@@ -65,7 +65,7 @@ Rankings and Citations:
 <li><a href="https://www.ams.org.libproxy.unm.edu/mathscinet/citations.html" target="_blank">MathSciNet Journal Ranking</a></li>
 <li><a href="https://www.austms.org.au/Rankings/AustMS_final_ranked.html" target="_blank">Australian Journal Ranking</a></li>
 <li><a href="https://qualis.capes.gov.br/webqualis/principal.seam" target="_blank">Brazilian Journal Ranking</a></li>
-<li><a href="https://jcr.incites.thomsonreuters.com/JCRJournalHomeAction.action" target="_blank">InCites Thomson Reuters JCR</a></li>
+<li><a href="https://jcr.clarivate.com" target="_blank">InCites Thomson Reuters JCR</a></li>
 <li><a href="https://www.scimagojr.com/journalrank.php?area=2600" target="_blank">Scimago Journal Ranking</a></li>
 <li><a href="https://www.scopus.com/freelookup/form/author.uri" target="_blank">Scopus Author Search</a></li>
 <li><a href="https://www.ams.org/notices/201105/rtx110500653p.pdf" target="_blank">Scientific impact in different fields</a></li>
@@ -81,8 +81,8 @@ Software:
 <li><a href="https://www.wolframalpha.com/" target="_blank">Wolfram Alpha</a></li>
 <li><a href="https://freemat.sourceforge.net/" target="_blank">FreeMat</a></li>
 <li><a href="https://www.compileonline.com/execute_matlab_online.php" target="_blank">Online Matlab Compiler</a></li>
-<li><a href="https://www.codecogs.com/latex/eqneditor.php" target="_blank">Online LaTex Editor</a></li>
-<li><a href="https://www.mathjax.org/" target="_blank">MathJax</a></li>
+<li><a href="https://www.codecogs.com/latex/eqneditor.php" target="_blank">LaTex Formula Editor</a></li>
+<li><a href="https://www.overleaf.com/" target="_blank">Overleaf LaTex Editor/Compiler</a></li>
 <li><a href="https://www.latextemplates.com/" target="_blank">LaTex Templates</a></li>
 <li><a href="https://www.rpi.edu/dept/arc/training/latex/resumes/" target="_blank">LaTex Resumes</a></li>
 </ul>
@@ -95,6 +95,7 @@ Misc:
 <li><a href="https://www.ams.org/findgradprograms" target="_blank">AMS List of Math Programs</a></li>
 <li><a href="https://www.gmarks.org/StudentEmploymentResources.html" target="_blank">Employment resources for students</a></li>
 <li><a href="https://www.mcdonald.me.uk/storytelling/lichert_article.htm" target="_blank">Adjective Ladder</a></li>
+<li><a href="https://openaccessbutton.org/">Open Access Button</a></li>
 </ul>
 
 Wiki:
