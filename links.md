@@ -10,8 +10,9 @@ Books:
 <li><a href="https://amzn.to/1NtA8Zh" target="_blank">A Comprehensive Course in Analysis by Barry Simon</a></li>
 <li><a href="https://amzn.to/1WQmZvv" target="_blank">Princeton Lectures in Analysis by Stein and Shakarchi</a></li>
 <li><a href="https://amzn.to/1SnAzEL" target="_blank">Analysis by Terence Tao</a></li>
-<li><a href="https://aimath.org/textbooks/approved-textbooks/" target="_blank">AIM open-access textbooks list</a></li>
 <li><a href="https://www.ams.org/open-math-notes" target="_blank">AMS open math notes</a></li>
+<li><a href="https://aimath.org/textbooks/approved-textbooks/" target="_blank">AIM open-access textbooks list</a></li>
+<li><a href="https://open.umn.edu/opentextbooks/subjects/mathematics" target="_blank">UMN open textbook library</a></li>
 <li><a href="https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html" target="_blank">Online math textbooks</a></li>
 </ul>
 
@@ -46,18 +47,10 @@ AMS Mathematics Culture Statements</a></li>
 UNM:
 <ul>
 <li><a href="https://unmevents.unm.edu/" target="_blank">UNM Events Calendar</a></li>
-<li><a href="https://unmgrc.unm.edu/support-services/graduate-writing-support/individual-consultations.html" target="_blank">Graduate writing help</a></li>
 <li><a href="https://library.unm.edu/find/prform.php" target="_blank">Library Purchase Request</a></li>
 <li><a href="https://registrar.unm.edu/reports--statistics/" target="_blank">Old Schedules</a></li>
 <li><a href="https://registrar.unm.edu/academic-calendar/ten-year-semester-dates-calendar.html" target="_blank">Semester dates</a></li>
 <li><a href="https://ppd.unm.edu/assets/documents/campus-maps/visitormapcentral_numeric.pdf" target="_blank">Campus Map</a></li>
-</ul>
-
-Albuquerque:
-<ul>
-<li><a href="https://wmb.unm.edu/?busid=11+140+141+12+66+766+777" target="_blank">ABQ bus tracker</a></li>
-<li><a href="https://data.cabq.gov/transit/Maps/All-wkday%20and%20wkend.pdf/" target="_blank">ABQ bus schedule</a></li>
-<li><a href="https://www.urbanspoon.com/c/60/Albuquerque-restaurants.html" target="_blank">ABQ restaurants</a></li>
 </ul>
 
 Rankings and Citations:
@@ -65,7 +58,7 @@ Rankings and Citations:
 <li><a href="https://www.ams.org.libproxy.unm.edu/mathscinet/citations.html" target="_blank">MathSciNet Journal Ranking</a></li>
 <li><a href="https://www.austms.org.au/Rankings/AustMS_final_ranked.html" target="_blank">Australian Journal Ranking</a></li>
 <li><a href="https://qualis.capes.gov.br/webqualis/principal.seam" target="_blank">Brazilian Journal Ranking</a></li>
-<li><a href="https://jcr.clarivate.com" target="_blank">InCites Thomson Reuters JCR</a></li>
+<li><a href="https://jcr-clarivate-com/JCRLandingPageAction.action" target="_blank">InCites Thomson Reuters JCR</a></li>
 <li><a href="https://www.scimagojr.com/journalrank.php?area=2600" target="_blank">Scimago Journal Ranking</a></li>
 <li><a href="https://www.scopus.com/freelookup/form/author.uri" target="_blank">Scopus Author Search</a></li>
 <li><a href="https://www.ams.org/notices/201105/rtx110500653p.pdf" target="_blank">Scientific impact in different fields</a></li>
@@ -79,9 +72,9 @@ Software:
 <li><a href="https://www.desmos.com/calculator" target="_blank">Desmos Graphing Calc</a></li>
 <li><a href="https://www.desmos.com/calculator/nqom2ih05g" target="_blank">Desmos 3D</a></li>
 <li><a href="https://www.wolframalpha.com/" target="_blank">Wolfram Alpha</a></li>
+<li><a href="https://www.wolframcloud.com/" target="_blank">Wolfram Cloud</a></li>
 <li><a href="https://freemat.sourceforge.net/" target="_blank">FreeMat</a></li>
 <li><a href="https://www.compileonline.com/execute_matlab_online.php" target="_blank">Online Matlab Compiler</a></li>
-<li><a href="https://www.codecogs.com/latex/eqneditor.php" target="_blank">LaTex Formula Editor</a></li>
 <li><a href="https://www.overleaf.com/" target="_blank">Overleaf Online LaTex</a></li>
 <li><a href="https://www.latextemplates.com/" target="_blank">LaTex Templates</a></li>
 <li><a href="https://www.rpi.edu/dept/arc/training/latex/resumes/" target="_blank">LaTex Resumes</a></li>

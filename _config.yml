@@ -1,6 +1,6 @@
 # Site settings
 title:       Maxim Zinchenko's Home Page
-email:       "<script>document.write('l'+'&#97;'+'&#115;'+'t'+' '+'&#110;'+'a'+'m'+'e'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>"
+email:       "maxim@math.unm.edu"
 author:      Maxim Zinchenko
 description: Home Page
 baseurl:     ""
@@ -10,7 +10,6 @@ header_pages:
  - publications.md
  - courses.md
  - putnam.md
- - links.md 
  
 # Google services
 google_verification:

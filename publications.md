@@ -23,9 +23,16 @@ Refereed Publications:
 <ul>
 
 <li>
+<q>Sharp lower bounds for the Widom factors on the real line</q>
+with Gökalp Alpan.
+<a href="https://arxiv.org/pdf/1907.12492" target="_blank">[PDF]</a>
+</li>
+
+<li>
 <q>Asymptotics of Chebyshev Polynomials, IV. Comments on the Complex Case</q>; 
 with Jacob Christiansen and Barry Simon. 
 <i>J. d'Analyse Math.</i> (to appear)
+<a href="https://doi.org/" target="_blank">[DOI]</a>
 <a href="https://arxiv.org/pdf/1812.10667" target="_blank">[PDF]</a>
 </li>
 
@@ -33,13 +40,30 @@ with Jacob Christiansen and Barry Simon.
 <q>Asymptotics of Chebyshev polynomials, III. Sets saturating Szegö, Schiefermayr, and Totik-Widom bounds</q>; 
 with Jacob Christiansen and Barry Simon. 
 <i>Oper. Theory Adv. Appl.</i> (to appear)
-<a href="https://arxiv.org/pdf/1712.03482.pdf" target="_blank">[PDF]</a>
+<a href="https://doi.org/" target="_blank">[DOI]</a>
+<a href="https://arxiv.org/pdf/1712.03482" target="_blank">[PDF]</a>
+</li>
+
+<li>
+<q> On uniqueness of higher order spectral shift functions</q>
+with Anna Skripka.
+<i>Studia Math.</i> (to appear)
+<a href="https://doi.org/" target="_blank">[DOI]</a>
+<a href="https://arxiv.org/pdf/" target="_blank">[PDF]</a>
+</li>
+
+<li>
+<q>Stability and uniqueness properties of Taylor approximations of matrix functions</q>
+with Anna Skripka.
+<i>Linear Algebra Appl.</i> 582 (2019), 218-236.
+<a href="https://doi.org/10.1016/j.laa.2019.07.037" target="_blank">[DOI]</a>
+<a href="https://arxiv.org/pdf/" target="_blank">[PDF]</a>
 </li>
 
 <li>
 <q>Asymptotics of Chebyshev polynomials, II. DCT subsets of $\mathbb R$</q>; 
 with Jacob Christiansen, Barry Simon, and Peter Yuditskii. 
-<i>Duke Math. J.</i> 168 (2019), 325-349
+<i>Duke Math. J.</i> 168 (2019), 325-349.
 <a href="https://doi.org/10.1215/00127094-2018-0045" target="_blank">[DOI]</a>
 <a href="https://arxiv.org/pdf/1709.06707" target="_blank">[PDF]</a>
 </li>

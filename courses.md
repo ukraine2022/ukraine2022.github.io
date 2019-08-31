@@ -5,6 +5,7 @@ permalink: /courses/
 tags: 
 ---
 
+#### Fall 2019
 
 - Math 321, [Linear Algebra with Proofs](https://math.unm.edu/~maxim/321/)
 
