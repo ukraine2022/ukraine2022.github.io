@@ -45,10 +45,10 @@ with Jacob Christiansen and Barry Simon.
 </li>
 
 <li>
-<q> On uniqueness of higher order spectral shift functions</q>
+<q>On uniqueness of higher order spectral shift functions</q>
 with Anna Skripka.
 <i>Studia Math.</i> (to appear)
-<a href="https://doi.org/" target="_blank">[DOI]</a>
+<a href="https://doi.org/10.4064/sm181007-1-1" target="_blank">[DOI]</a>
 <a href="https://arxiv.org/pdf/" target="_blank">[PDF]</a>
 </li>
 
