@@ -26,9 +26,6 @@ with your full name and your UNM student ID by the end of September (this is to 
 
 #### Putnam Competition Resources
 <ul>
-<li><a href="https://www.maa.org/math-competitions/putnam-competition" target="_blank">
- Putnam Mathematical Competition</a></li>
-
 <li>Books:</li>
 <ul>
 <li>Kedlaya, Poonen, Vakil, <a href="https://amzn.to/2t5QeiA" target="_blank">
@@ -86,4 +83,7 @@ with your full name and your UNM student ID by the end of September (this is to 
 
 <li><a href="https://kskedlaya.org/putnam-archive/" target="_blank"> 
  Putnam Problems Archive</a></li>
+ 
+<li><a href="https://www.maa.org/math-competitions/putnam-competition" target="_blank"> 
+ Putnam MAA Page</a></li>
 </ul>
