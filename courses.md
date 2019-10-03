@@ -19,3 +19,4 @@ tags:
 - Math 314, [Linear Algebra with Applications](https://math.unm.edu/~maxim/314/)
 - Math 562, [Functions of a Complex Variable II](https://math.unm.edu/~maxim/562/)
 - Math 561, [Functions of a Complex Variable I](https://math.unm.edu/~maxim/561/)
+- Math 313, [Complex Variables](https://math.unm.edu/~maxim/313/)
