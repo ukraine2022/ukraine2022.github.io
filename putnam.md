@@ -23,10 +23,6 @@ The Putnam examination tests originality, technical competence and familiarity w
 
 All students with interests in the mathematical sciences are strongly encouraged to participate. Students taking part in and preparing for the competition learn a lot about general mathematical skills such as solving problems and proving statements. Graduate schools and other employers can be impressed by high Putnam scores.
 
-If you are interested in taking the Putnam exam please send an email to &lt;<script>document.write(
-'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt; 
-with your full name and your UNM student ID by the end of September (this is to reserve a spot for you at the competition). A limited number of students might also be able to participate on a walk-in basis on the day of the competition.
-
 #### Putnam Competition Resources
 <ul>
 <li>Books:</li>
