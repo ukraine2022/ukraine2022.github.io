@@ -8,7 +8,10 @@ tags:
 #### Putnam Exam at UNM
 Date/Time: First Saturday in December, 8:30am-11:30am & 1:30pm-4:30pm.<br>
 Location: Will be emailed to registered students by November 30.<br>
-To register email me your full name and UNM ID by September 30.<br>
+Registration: to reserve a spot at the Putnam exam send a participation request with your Full Name and UNM ID to 
+&lt;<script>document.write(
+'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt; 
+by September 30.<br>
 
 #### Putnam Problem of the Day
 <img src="http://www.math.harvard.edu/putnam/day.gif" width="100%" border="0">
