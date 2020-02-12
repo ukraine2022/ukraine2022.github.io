@@ -42,14 +42,14 @@ with Jacob Christiansen and Barry Simon.
 <q>Asymptotics of Chebyshev polynomials, III. Sets saturating Szegö, Schiefermayr, and Totik-Widom bounds</q>; 
 with Jacob Christiansen and Barry Simon. 
 <i>Oper. Theory Adv. Appl.</i> (to appear)
-<a href="https://doi.org/" target="_blank">[DOI]</a>
+<a href="https://www.springer.com/gp/book/9783030315306" target="_blank">[DOI]</a>
 <a href="https://arxiv.org/pdf/1712.03482" target="_blank">[PDF]</a>
 </li>
 
 <li>
 <q>On uniqueness of higher order spectral shift functions</q>
 with Anna Skripka.
-<i>Studia Math.</i> 251 (2020), 207--218.
+<i>Studia Math.</i> 251 (2020), 207-218.
 <a href="https://doi.org/10.4064/sm181007-1-1" target="_blank">[DOI]</a>
 <a href="https://arxiv.org/pdf/" target="_blank">[PDF]</a>
 </li>
