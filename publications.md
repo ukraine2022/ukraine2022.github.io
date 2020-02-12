@@ -25,6 +25,8 @@ Refereed Publications:
 <li>
 <q>Sharp lower bounds for the Widom factors on the real line</q>
 with Gökalp Alpan.
+<i>J. Math. Anal. Appl.</i> 484 (2020), 123729.
+<a href="https://doi.org/10.1016/j.jmaa.2019.123729" target="_blank">[DOI]</a>
 <a href="https://arxiv.org/pdf/1907.12492" target="_blank">[PDF]</a>
 </li>
 
@@ -47,7 +49,7 @@ with Jacob Christiansen and Barry Simon.
 <li>
 <q>On uniqueness of higher order spectral shift functions</q>
 with Anna Skripka.
-<i>Studia Math.</i> (to appear)
+<i>Studia Math.</i> 251 (2020), 207--218.
 <a href="https://doi.org/10.4064/sm181007-1-1" target="_blank">[DOI]</a>
 <a href="https://arxiv.org/pdf/" target="_blank">[PDF]</a>
 </li>
