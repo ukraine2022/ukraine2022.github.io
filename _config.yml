@@ -6,6 +6,10 @@ description: Home Page
 baseurl:     ""
 url:         "https://maximmath.github.io"
 date_format: "%b %-d, %Y"
+header_pages:
+ - Title: Publ
+ - courses.md
+ - putnam.md
  
 # Google services
 google_verification:
