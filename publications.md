@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Publications
-external_url:https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
+permalink: /publications/
 tags: 
 ---
+<meta http-equiv="Refresh" content="0; url=https://www.ams.org/mathscinet/search/author.html?mrauthid=778212" />
 
 <h4>Publications&nbsp; 
 <a href="https://arxiv.org/a/zinchenko_m_1" target="_blank">
