@@ -7,8 +7,7 @@ baseurl:     ""
 url:         "https://maximmath.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - title: Publ
-   url: publications.html
+ - publications.md
  - courses.md
  - putnam.md
  

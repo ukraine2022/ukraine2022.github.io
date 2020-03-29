@@ -1,4 +1,5 @@
 ---
+redirect_to: https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
 layout: default
 title: Publications
 permalink: /publications/
