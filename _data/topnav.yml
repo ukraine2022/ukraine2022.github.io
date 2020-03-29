@@ -4,6 +4,6 @@
 navbar_singleitems:
 - items:
   - title: Publications2
-     external_url: https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
-   - title: Courses2
+     url: https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
+   - title: Courses
      url: courses.md
