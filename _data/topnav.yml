@@ -4,6 +4,6 @@
 navbar_singleitems:
 - items:
   - title: Publications
-     url: https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
+    url: https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
   - title: Courses
-     url: courses.md
+    url: courses.md
