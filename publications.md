@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Publications
-permalink: /publications/
+layout: external
+external_url:https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 [ArXiv]</a>&nbsp;
 <a href="https://www.ams.org/mathscinet/search/author.html?mrauthid=778212" target="_blank">
 [MathSciNet]</a>&nbsp;
-<a href="https://scholar.google.com/citations?user=SW1Lc4YAAAAJ" target="_blank">
+<a href="https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate" target="_blank">
 [Google Scholar]</a>&nbsp; 
 <a href="https://www.researchgate.net/profile/Maxim_Zinchenko" target="_blank">
 [Research Gate]</a>&nbsp; 
