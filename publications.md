@@ -15,5 +15,3 @@ tags:
 [ArXiv]</a>&nbsp;
 <a href="https://www.researchgate.net/profile/Maxim_Zinchenko" target="_blank">
 [Research Gate]</a>&nbsp; 
-<a href="https://orcid.org/0000-0002-9559-0650" target="_blank">
-[ORCID]</a>&nbsp; 
