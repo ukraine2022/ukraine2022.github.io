@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: external
+layout: defaul
 external_url:https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
 tags: 
 ---
