@@ -2,8 +2,7 @@
  ## if you want to list an external_url, use url instead of url. the theme will apply a different link base.
 
 navbar_singleitems:
-- items:
-  - title: Publications2
+  - title: Publications
      url: https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
    - title: Courses
      url: courses.md
