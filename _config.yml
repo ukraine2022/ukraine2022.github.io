@@ -8,7 +8,7 @@ url:         "https://maximmath.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - title: Publications-2
-     external_url: https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
+     url: https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate
  - courses.md
  - putnam.md
  
