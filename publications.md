@@ -14,7 +14,7 @@ tags:
 <a href="https://www.researchgate.net/profile/Maxim_Zinchenko" target="_blank">
 [Research Gate]</a>&nbsp; 
 
-<meta http-equiv="Refresh" content="0; url=https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate" />
 <script language="javascript">
 location.replace("https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate")
 </script>
+<meta http-equiv="Refresh" content="0; url=https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate" />
