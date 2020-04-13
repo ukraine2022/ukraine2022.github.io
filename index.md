@@ -23,8 +23,6 @@ Selected publications:
 [Annales Henri Poincaré 18 (2017), 1949–1976](https://doi.org/10.1007/s00023-016-0546-x)
 - "On spectral theory for Schrödinger operators with operator-valued potentials"; with F.Gesztesy and R.Weikard. 
 [Journal of Differential Equations 255 (2013), 1784–1827](https://doi.org/10.1016/j.jde.2013.05.022)
-- "The Hilbert transform of a measure"; with A.Poltoratski and B.Simon. 
-[Journal d'Analyse Mathématique 111 (2010), 247–265](https://doi.org/10.1007/s11854-010-0017-0)
 - "Right limits and reflectionless measures for CMV matrices"; with J.Breuer and E.Ryckman. 
 [Communications in Mathematical Physics 292 (2009), 1–28](https://doi.org/10.1007/s00220-009-0839-8)
 
