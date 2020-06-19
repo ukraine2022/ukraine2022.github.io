@@ -27,47 +27,52 @@ All students with interests in the mathematical sciences are strongly encouraged
 <ul>
 <li>Books:</li>
 <ul>
-<li>Kedlaya, Poonen, Vakil, <a href="https://amzn.to/2t5QeiA" target="_blank">
+<li>Kedlaya, Poonen, Vakil, <a href="http://amzn.to/2t5QeiA" target="_blank">
  Putnam Mathematical Competition 1985-2000: Problems, Solutions and Commentary</a></li>
-<li>Gelca, Andreescu, <a href="https://amzn.to/2uahph0" target="_blank">
+<li>Alexanderson, Klosinski, Larson, <a href="https://amzn.to/2Yg2Lmd" target="_blank"> 
+ Putnam Mathematical Competition: Problems and Solutions 1965-1984</a></li>
+<li>Gelca, Andreescu, <a href="http://amzn.to/2uahph0" target="_blank">
  Putnam and Beyond</a>, 2007</li>
-<li>Larson, <a href="https://amzn.to/2u14Wf0" target="_blank">
+<li>Larson, <a href="http://amzn.to/2u14Wf0" target="_blank">
  Problem-Solving Through Problems</a>, 1983</li>
-<li>Engel, <a href="https://amzn.to/2tzT6Yc" target="_blank">
+<li>Engel, <a href="http://amzn.to/2tzT6Yc" target="_blank">
  Problem-Solving Strategies</a>, 1998</li>
-<li>Zeitz, <a href="https://amzn.to/2sXnAVA" target="_blank">
+<li>Zeitz, <a href="http://amzn.to/2sXnAVA" target="_blank">
  The Art and Craft of Problem Solving</a>, 2007</li>
-<li>Steele, <a href="https://amzn.to/2u5FZPo" target="_blank">
+<li>Steele, <a href="http://amzn.to/2u5FZPo" target="_blank">
  Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities</a>, 2004</li>
-<li>Andreescu, <a href="https://amzn.to/2u0V1WV" target="_blank">
+<li>Andreescu, <a href="http://amzn.to/2u0V1WV" target="_blank">
  Complex Numbers from A to Z</a>, 2014</li>
-<li>Radulescu, Radulescu, Andreescu, <a href="https://amzn.to/2sXCYkD" target="_blank">
+<li>Radulescu, Radulescu, Andreescu, <a href="http://amzn.to/2sXCYkD" target="_blank">
  Problems in Real Analysis: Advanced Calculus on the Real Axis</a>, 2009</li>
-<li>Barbeau, <a href="https://amzn.to/2sIv8XO" target="_blank">Polynomials</a>, 2003</li>
-<li>Titu, Mushkarov, Stoyanov, <a href="https://amzn.to/2tGfL3D" target="_blank">Geometric Problems on Maxima and Minima</a>, 2006</li>
-
-<li>Newman, <a href="https://amzn.to/2uadwbO" target="_blank">
+<li>Barbeau, <a href="http://amzn.to/2sIv8XO" target="_blank">Polynomials</a>, 2003</li>
+<li>Titu, Mushkarov, Stoyanov, <a href="http://amzn.to/2tGfL3D" target="_blank">Geometric Problems on Maxima and Minima</a>, 2006</li>
+<li>Newman, <a href="http://amzn.to/2uadwbO" target="_blank">
  A Problem Seminar</a>, 1982</li>
-<li>Andreescu, Dospinescu, <a href="https://amzn.to/2uaAijK" target="_blank">
+<li>Andreescu, Dospinescu, <a href="http://amzn.to/2uaAijK" target="_blank">
  Problems From The Book</a>, 2010</li>
 <li>Wilf, <a href="https://www.math.upenn.edu/~wilf/gfologyLinked2.pdf" target="_blank">
  Generatingfunctionology</a>, 1992</li>
-<li>Szekely, <a href="https://amzn.to/2tAkTIl" target="_blank">
+<li>Szekely, <a href="http://amzn.to/2tAkTIl" target="_blank">
  Contests in Higher Mathematics: Miklos Schweitzer Competitions 1962-1991</a></li>
-<li>Honsberger, <a href="https://amzn.to/2uaC7NC" target="_blank">
+<li>Honsberger, <a href="http://amzn.to/2uaC7NC" target="_blank">
  Mathematical Morsels</a>, 1979</li>
-<li>Shklarsky, Chentzov, Yaglom, <a href="https://amzn.to/2u5TFcZ" target="_blank">
+<li>Shklarsky, Chentzov, Yaglom, <a href="http://amzn.to/2u5TFcZ" target="_blank">
  The USSR Olympiad problem book</a>, 1993</li>
-<li>Andreescu, Feng, <a href="https://amzn.to/2sHXotJ" target="_blank">
+<li>Andreescu, Feng, <a href="http://amzn.to/2sHXotJ" target="_blank">
  102 Combinatorial Problems</a>, 2003</li>
-<li>Andreescu, Feng, <a href="https://amzn.to/2t6kGsR" target="_blank">
+<li>Andreescu, Feng, <a href="http://amzn.to/2t6kGsR" target="_blank">
 103 Trigonometry Problems: From the Training of the USA IMO Team</a>, 2005</li>
-<li>Andreescu, Andrica, Feng, <a href="https://amzn.to/2sIrugO" target="_blank">
+<li>Andreescu, Andrica, Feng, <a href="http://amzn.to/2sIrugO" target="_blank">
  104 Number Theory Problems: From the Training of the USA IMO Team</a>, 2006</li>
-<li>Polya, Kilpatrick, <a href="https://amzn.to/2uazQ5k" target="_blank">
+<li>Polya, Kilpatrick, <a href="http://amzn.to/2uazQ5k" target="_blank">
  The Stanford Mathematics Problem Book: With Hints and Solutions</a>, 2009</li>
-<li>Polya, <a href="https://amzn.to/2sX4uPt" target="_blank">
+<li>Polya, <a href="http://amzn.to/2sX4uPt" target="_blank">
  How to Solve It: A New Aspect of Mathematical Method</a>, 2004</li>
+<li>Vakil, <a href="http://amzn.to/2FMJMai" target="_blank">
+ Mathematical Mosaic: Patterns &amp; Problem Solving</a>, 2007</li>
+<li>Stanley, <a href="https://amzn.to/2V0vxoZ" target="_blank">
+ Conversational Problem Solving</a>, 2020</li>
 </ul>
 
 <li>Other Resources:</li>
