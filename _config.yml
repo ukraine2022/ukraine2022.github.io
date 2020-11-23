@@ -7,9 +7,9 @@ baseurl:     ""
 url:         "https://maximmath.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - putnam.md
  - courses.md
- 
+ - putnam.md 
+
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account

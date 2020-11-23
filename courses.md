@@ -7,8 +7,8 @@ tags:
 
 #### Spring 2021
 
-- Math 569, [Functions of a Complex Variable II](https://math.unm.edu/~maxim/569-2021-announcement.pdf)
-- Math 562, [Functions of a Complex Variable II]
+- Math 569, [Approximation Theory](https://math.unm.edu/~maxim/569-2021-announcement.pdf)
+- Math 562, Functions of a Complex Variable II
 
 
 
