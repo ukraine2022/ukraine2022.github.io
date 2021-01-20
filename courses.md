@@ -7,9 +7,10 @@ tags:
 
 #### Spring 2021
 
-- Math 569, Approximation Theory [[announcement]](https://math.unm.edu/~maxim/569-2021-announcement.pdf)
-- Math 562, Functions of a Complex Variable II
+- Math 569, [Approximation Theory](https://learn.unm.edu/)
+- Math 562, [Complex Analysis II](https://learn.unm.edu/)
 
+#### Fall 2020
 
-
-All course materials will be posted to [learn.unm.edu](https://learn.unm.edu/)
+- Math 321, Linear Algebra
+- Math 562, Complex Analysis I
