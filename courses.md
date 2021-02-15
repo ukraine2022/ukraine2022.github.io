@@ -13,4 +13,4 @@ tags:
 #### Fall 2020
 
 - Math 321, Linear Algebra
-- Math 562, Complex Analysis I
+- Math 561, Complex Analysis I
