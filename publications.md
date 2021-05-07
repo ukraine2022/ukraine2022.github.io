@@ -7,6 +7,6 @@ tags:
 
 ### -- [Google Scholar](https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate)
 
-### -- [AMS:MathSciNet](https://www.ams.org/mathscinet/search/author.html?mrauthid=778212)
+### -- [Math Sci Net](https://www.ams.org/mathscinet/search/author.html?mrauthid=778212)
 
 
