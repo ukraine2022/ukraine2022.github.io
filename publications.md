@@ -9,5 +9,4 @@ tags:
 
 ### -- [MathSciNet](https://www.ams.org/mathscinet/search/author.html?mrauthid=778212)
 
-### -- [ArXiv](https://arxiv.org/a/zinchenko_m_1)
 
