@@ -16,4 +16,4 @@ tags:
 <script language="javascript">
 location.replace("https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate")
 </script>
-<meta http-equiv="Refresh" content="0; url=https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate" />
+<meta http-equiv="Refresh" content="5; url=https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate" />
