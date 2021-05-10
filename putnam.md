@@ -27,6 +27,8 @@ All students with interests in the mathematical sciences are strongly encouraged
 <ul>
 <li>Books:</li>
 <ul>
+<li>Kedlaya, Poonen, Vakil, <a href="https://amzn.to/2RL2oz5" target="_blank">
+ Putnam Mathematical Competition 2001-2016: Problems, Solutions and Commentary</a></li>
 <li>Kedlaya, Poonen, Vakil, <a href="http://amzn.to/2t5QeiA" target="_blank">
  Putnam Mathematical Competition 1985-2000: Problems, Solutions and Commentary</a></li>
 <li>Alexanderson, Klosinski, Larson, <a href="https://amzn.to/2Yg2Lmd" target="_blank"> 
