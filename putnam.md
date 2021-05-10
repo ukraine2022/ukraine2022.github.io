@@ -85,7 +85,8 @@ All students with interests in the mathematical sciences are strongly encouraged
 <li><a href="https://www.math.lsa.umich.edu/~hderksen/ProblemSolving/ProblemSolving.html" target="_blank">University of Michigan</a></li>
 </ul>
 
-<li><a href="https://math.stackexchange.com/questions/305700/studying-for-the-putnam-exam" target="_blank">Studying for Putnam</a></li>
+<li><a href="https://math.stackexchange.com/questions/305700/studying-for-the-putnam-exam" target="_blank">
+ Studying for Putnam</a></li>
 
 <li><a href="https://kskedlaya.org/putnam-archive/" target="_blank"> 
  Putnam Problems Archive</a></li>
