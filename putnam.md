@@ -93,4 +93,8 @@ All students with interests in the mathematical sciences are strongly encouraged
  
 <li><a href="https://www.maa.org/math-competitions/putnam-competition" target="_blank"> 
  Putnam MAA Page</a></li>
+ 
+<li><a href="http://www.imo-official.org/problems.aspx" target="_blank"> 
+ IMO Problems Archive</a></li>
+ 
 </ul>
