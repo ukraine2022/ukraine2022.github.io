@@ -7,8 +7,8 @@ tags:
 
 #### Putnam Exam at UNM
 Date/Time: First Saturday in December, 8:30am-11:30am & 1:30pm-4:30pm.<br>
-Location: Will be emailed to registered students by November 30.<br>
-Registration: <a href="https://artofproblemsolving.com/contests/putnam/student">Onlione Registration</a><br>
+Location: Will be emailed to registered students a few days before the exam.<br>
+Registration: <a href="https://artofproblemsolving.com/contests/putnam/student">Online Registration</a><br>
 Email for general questions: 
 &lt;<script>document.write(
 'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt;<br>
