@@ -8,11 +8,10 @@ tags:
 #### Putnam Exam at UNM
 Date/Time: First Saturday in December, 8:30am-11:30am & 1:30pm-4:30pm.<br>
 Location: Will be emailed to students by November 30.<br>
-Registration: <a href="https://artofproblemsolving.com/contests/putnam/student">Onlione Registration</a>
+Registration: <a href="https://artofproblemsolving.com/contests/putnam/student">Onlione Registration</a><br>
 For general questions: email me at 
 &lt;<script>document.write(
-'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt; 
-<br>
+'z'+'&#105;'+'&#110;'+'ch'+'&#101;'+'nk'+'o'+' '+'&#97;'+'&#116;'+' '+'&#117;'+'n'+'&#109;'+' '+'&#101;'+'d'+'&#117;');</script>&gt;<br>
 
 #### Putnam Problem of the Day
 <img src="http://legacy-www.math.harvard.edu/putnam/day.gif" width="100%" border="0">
