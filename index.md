@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello, I am from Ukraine. On February 24 2022 russia started a large scale [invasion of my home country](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine). A genocide of Ukrainian people has ensured. This is the largest war in Europe since WW2. The western world is not doing enough to help Ukraine survive and continues to operate businesses in russia and buy russian oil and gas.
+Hello, I am from Ukraine. On February 24 2022 russia started a large scale [invasion of my home country](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine) resulting in a genocide of Ukrainian people. This is the largest war in Europe since WW2. However, the western world is not doing enough to help Ukraine survive and continues to operate businesses in russia and buy russian oil and gas.
 
 In the meantime, my home city Kharkiv is shelled and bombed every day:
 
