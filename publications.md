@@ -5,12 +5,11 @@ permalink: /publications/
 tags: 
 ---
 
-### -- [Google Scholar](https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate)
+#### [Google Scholar](https://scholar.google.com/citations?user=SW1Lc4YAAAAJ&sortby=pubdate)
 
-### -- [Math Sci Net](https://www.ams.org/mathscinet/search/author.html?mrauthid=778212)
+#### [Math Sci Net](https://www.ams.org/mathscinet/search/author.html?mrauthid=778212)
 
-
-### -- Selected publications:
+#### Selected publications:
 
 - "Asymptotics of Chebyshev polynomials, II. DCT subsets of $\mathbb R$"; with J.S.Christiansen, B.Simon, and P.Yuditskii. 
 [Duke Mathematical Journal 168 (2019), 325-349.](https://doi.org/10.1215/00127094-2018-0045)
