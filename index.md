@@ -6,8 +6,8 @@ Hello, I am from Ukraine. On February 24 2022 russia started a large scale [inva
 
 In the meantime, my home city Kharkiv is shelled and bombed every day:
 
-<img src="/images/kharkiv1.jpg">
-<video width="800" controls>
+<img src="/images/kharkiv1.jpg" width="1024">
+<video width="800" height="600" controls>
 <source src="/images/kharkiv-strike1.mp4" type="video/mp4">
 </video>
 <img src="/images/kharkiv3.jpg">
@@ -26,9 +26,11 @@ In the meantime, my home city Kharkiv is shelled and bombed every day:
 <source src="/images/kharkiv-strike2.mp4" type="video/mp4">
 </video>
 <img src="/images/london-kharkiv.jpg">
-<video width="1024" controls>
+<video width="1024" height="624" controls>
 <source src="/images/kharkiv-ww2.mp4" type="video/mp4">
 </video>
+
+<br><hr><br>
 
 After a month long attack on Ukraine's capital Kyiv russia has withdrew from Kyiv and moved its forces to attack cities in the east and south of Ukraine. Now journalists in Kyiv are documenting the genocide that russia is waging in Ukraine. Several commuter suburbs of Kyiv have been razed to the ground. Executed civilians are lying on the streets, [many with hands tied behind their back](https://www.reuters.com/world/europe/ukrainian-street-corpse-with-hands-bound-bullet-wound-head-2022-04-03). Civilians were killed indiscriminately while they were trying to flee. Women that managed to escape are reporting their husbands being killed and them being raped in front of their children. Retreating russians have left behind [mass graves](https://www.reuters.com/world/europe/satellite-images-show-45-foot-long-trench-grave-site-bucha-maxar-2022-04-03). They have also [mined roads, residential buildings, and even bodies of killed people](https://www.latimes.com/world-nation/story/2022-04-02/zelenksy-warns-of-mines-in-wake-of-russian-retreat-in-northern-ukraine) hoping to kill more civilians with the explosives.
 The world needs to act now.
