@@ -6,13 +6,14 @@ Hello, I am from Ukraine. On February 24 2022 russia started a large scale [inva
 
 In the meantime, my home city Kharkiv is shelled and bombed every day:
 
-![Kharkiv](/images/kharkiv1.jpg){:style="width: 1024px"}
-![Kharkiv](/images/kharkiv-strike1.mp4)
+<img src="/images/kharkiv1.jpg">
+<video controls>
+<source src="/images/kharkiv-strike1.mp4" type="video/mp4">
+</video> 
 ![Kharkiv](/images/kharkiv3.jpg)
 ![Kharkiv](/images/kharkiv4.jpg)
 ![Kharkiv](/images/kharkiv5.jpg)
 ![Kharkiv](/images/kharkiv6.jpg)
-![Kharkiv](/images/kharkiv7.jpg)
 ![Kharkiv](/images/kharkiv8.jpg)
 ![Kharkiv](/images/kharkiv9.jpg)
 ![Kharkiv](/images/kharkiv10.jpg)
