@@ -46,6 +46,7 @@ The world needs to act now.
 ![Kyiv](/images/kyiv-sub6.jpg)
 ![Kyiv](/images/kyiv-sub7.jpg)
 
-<br>
 
-<a class="twitter-timeline" href="https://twitter.com/maximmath?ref_src=twsrc%5Etfw">Tweets by maximmath</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/maximmath"></a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+</script>
