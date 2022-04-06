@@ -20,7 +20,7 @@ Security camera footage of a strike on Kharkiv's government building:
 <img src="/images/kharkiv10.jpg">
 <img src="/images/kharkiv11.jpg">
 <img src="/images/kharkiv12.jpg">
-Nobody is spared from rocket attacks even animals at the zoo:
+<br>Nobody is spared from rocket attacks, even animals at the zoo get hit:<br>
 <img src="/images/kharkiv13.jpg">
 This is the size of bombs that are being dropped on Kharkiv:
 <img src="/images/kharkiv14.jpg">
