@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello, I am from Ukraine. On February 24 2022 russia started a large scale [invasion of my home country](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine). A genocide of Ukrainian people has ensued. This is the largest war in Europe since WW2. However, the western world is not doing enough to stop the genocide which russia is executing in Ukraine and which it publicly endorsed in the [media](https://twitter.com/sumlenny/status/1510910740261134338). The western corporations continue to [operate in russia](https://som.yale.edu/story/2022/over-500-companies-have-withdrawn-russia-some-remain) and western countries continue to sponsor russia's war machine by buying russian oil and gas.
+Hello, I am from Ukraine. On February 24 2022 russia started a large scale [invasion of my home country](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine). A genocide of Ukrainian people has ensued. This is the largest war in Europe since WW2. [War crimes](https://russiavsworld.org/news/war-crimes) committed by russia are numerous and wide spread. However, the western world is not doing enough to stop the genocide which russia is executing in Ukraine and which it publicly endorsed in the [media](https://twitter.com/sumlenny/status/1510910740261134338). The western corporations continue to [operate in russia](https://som.yale.edu/story/2022/over-500-companies-have-withdrawn-russia-some-remain) and western countries continue to sponsor russia's war machine by buying russian oil and gas.
 
 In the meantime, my home city Kharkiv is shelled and bombed every day:
 
@@ -50,6 +50,6 @@ The world needs to act now.
 ![Kyiv](/images/kyiv-sub7.jpg)
 
 
-<a class="twitter-timeline" href="https://twitter.com/maximmath"></a> 
+<a class="twitter-timeline" href="https://twitter.com/maximmath"></a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
 </script>
