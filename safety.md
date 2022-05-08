@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Courses
-permalink: /courses/
+title: Safety
+permalink: /safety/
 tags: 
 ---
 
