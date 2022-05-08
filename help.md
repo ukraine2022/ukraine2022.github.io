@@ -14,8 +14,8 @@ To help/Надати допомогу
 - [Boycott companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain) [Petition to eliminate from ESG ratings.](https://www.change.org/p/eliminate-bloody-trade-companies-from-esg-ratings?source_location=topic_page) 
 [Як переконати міжнародні компанії піти з Росії.](https://www.epravda.com.ua/columns/2022/03/27/684758/)
 - Donate to [Come Back Alive](https://www.comebackalive.in.ua/) with swift or cryptocurrencies
-- [Fundraising for Bulletproof vests](https://broniki.org.ua/?source-input=wZK9GTyc&default-currency=2)
-- [Donate to SaveKharkiv](https://savekharkiv.org/)
+- Fundraising for [Bulletproof vests](https://broniki.org.ua/?source-input=wZK9GTyc&default-currency=2)
+- Donate to [SaveKharkiv](https://savekharkiv.org/)
 - Shop on [AmazonSmile](https://smile.amazon.com/) which donates 0.5% to a charity of your choice 
 - Join the [IT Army of Ukraine](https://t.me/s/itarmyofukraine2022)
 - [Що США та НАТО можуть надати Україні замість "закритого неба"](https://www.eurointegration.com.ua/articles/2022/03/14/7135931/)
@@ -23,7 +23,7 @@ To help/Надати допомогу
 - [Як замініти російські нафту та газ](https://www.epravda.com.ua/publications/2022/04/6/685291/)
 - Послухати семінар школи мислення Apeiron, гроші за який перерахують на потреби армії та постраждалих
 - Дієва протидія російській агресії [фіксувати пересування](https://t.me/stop_russian_war_bot) [зупиняти ворога](https://www.pravda.com.ua/news/2022/02/26/7326209/)
-- [Як зробити «коктейль Молотова»](https://hromadske.ua/ru/posts/kak-sdelat-koktejl-molotova-i-o-drugih-sposobah-dlya-grazhdanskih-kak-ostanovit-rossijskuyu-tehniku)
+- Як зробити [«коктейль Молотова»](https://hromadske.ua/ru/posts/kak-sdelat-koktejl-molotova-i-o-drugih-sposobah-dlya-grazhdanskih-kak-ostanovit-rossijskuyu-tehniku)
 - [Де здати кров](https://www.donor.ua/centers)
 
 Отримати допомогу
