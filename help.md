@@ -7,7 +7,7 @@ tags:
 
 To help/Надати допомогу
 - [Russia says it won't stop in Ukraine.](https://www.youtube.com/watch?v=fGPSYXEZHGs) [The question is, where do we stop it.](https://www.eurointegration.com.ua/eng/articles/2022/03/21/7136335/)  ["The main thing is not to provoke"](https://www.pravda.com.ua/eng/news/2022/04/3/7336794/)
-- [Donate to defense, demining, medical aid, rebuild of Ukraine](https://u24.gov.ua/)
+- Donate to [defense, demining, medical aid, rebuild of Ukraine](https://u24.gov.ua/)
 - [Support Ukrainian army and civilians/На потреби армії та гуманітарну допомогу](https://bank.gov.ua/en/)
 - US: submit letters to your representatives in Congress  [[Senate]](https://www.senate.gov/senators/senators-contact.htm)  [[House]](https://www.house.gov/representatives) 
 - Deutschland: [schreiben an den Bundestag](https://www.bundestag.de/abgeordnete)
