@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Publications
-permalink: /publications/
+title: Help
+permalink: /help/
 tags: 
 ---
 
