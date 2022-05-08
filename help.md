@@ -11,7 +11,8 @@ To help/Надати допомогу
 - [Support Ukrainian army and civilians/На потреби армії та гуманітарну допомогу](https://bank.gov.ua/en/)
 - US: submit letters to your representatives in Congress  [[Senate]](https://www.senate.gov/senators/senators-contact.htm)  [[House]](https://www.house.gov/representatives) 
 - Deutschland: [schreiben an den Bundestag](https://www.bundestag.de/abgeordnete)
-- [Boycott companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain) [Petition to eliminate from ESG ratings.](https://www.change.org/p/eliminate-bloody-trade-companies-from-esg-ratings?source_location=topic_page) [Як переконати міжнародні компанії піти з Росії.](https://www.epravda.com.ua/columns/2022/03/27/684758/)
+- [Boycott companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain) [Petition to eliminate from ESG ratings.](https://www.change.org/p/eliminate-bloody-trade-companies-from-esg-ratings?source_location=topic_page) 
+[Як переконати міжнародні компанії піти з Росії.](https://www.epravda.com.ua/columns/2022/03/27/684758/)
 - Donate to [Come Back Alive](https://www.comebackalive.in.ua/) with swift or cryptocurrencies
 - [Fundraising for Bulletproof vests](https://broniki.org.ua/?source-input=wZK9GTyc&default-currency=2)
 - [Donate to SaveKharkiv](https://savekharkiv.org/)
@@ -26,3 +27,12 @@ To help/Надати допомогу
 - [Де здати кров](https://www.donor.ua/centers)
 
 Отримати допомогу
+- [Якщо втратили роботу через війну](https://thepoint.rabota.ua/ya-zalyshyvsya-bez-roboty-pid-chas-viyny-scho-robyty/)
+- [Jobs for Ukraine](https://jobsforukraine.net/)
+- [Support for students & researchers from Ukraine.](https://ukrainet.eu/2022/05/04/support-for-academics/) [Навчання в університеті за кордоном під час війни.](https://life.pravda.com.ua/society/2022/04/1/248051/)
+- [Тraining and work opportunities in CERN](https://jobs.smartrecruiters.com/CERN/743999814255367-science-for-ukraine-training-and-work-opportunities-for-ukrainian-nationals) 
+- [Медичне транспортування пацієнтів Україною та за кордон](https://medvak.com.ua/)
+- [Плануєте евакуацію? Де отримати допомогу та житло](https://life.pravda.com.ua/society/2022/02/26/247573/) 
+- Житло закордоном [UkraineNow](https://www.ukrainenow.org/) [TakeShelter](https://www.ukrainetakeshelter.com/)
+- Біженці [The Netherlands](https://help.unhcr.org/netherlands/) [Канада](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-to-welcome-those-fleeing-the-war-in-ukraine.html) [US](https://www.uscis.gov/humanitarian/uniting-for-ukraine)
+- Псигологічна допомога [провина вцілілого](https://life.pravda.com.ua/society/2022/03/4/247661/) [як контролювати стрес](https://life.pravda.com.ua/health/2022/02/27/247580/) [методика письма по Бейкеру](https://life.pravda.com.ua/health/2022/04/7/248138/)
