@@ -16,13 +16,13 @@ To help/Надати допомогу
 - [Fundraising for Bulletproof vests](https://broniki.org.ua/?source-input=wZK9GTyc&default-currency=2)
 - [Donate to SaveKharkiv](https://savekharkiv.org/)
 - Shop on AmazonSmile which donates 0.5% to a charity of your choice 
-- Join the IT Army of Ukraine
-- Що США та НАТО можуть надати Україні замість "закритого неба"
-- Україна подала до Конгресу США перелік необхідної військової допомоги
-- Як замініти російські нафту та газ
+- Join the [IT Army of Ukraine](https://t.me/s/itarmyofukraine2022)
+- [Що США та НАТО можуть надати Україні замість "закритого неба"](https://www.eurointegration.com.ua/articles/2022/03/14/7135931/)
+- [Україна подала до Конгресу США перелік необхідної військової допомоги](https://www.pravda.com.ua/news/2022/03/31/7335943/)
+- [Як замініти російські нафту та газ](https://www.epravda.com.ua/publications/2022/04/6/685291/)
 - Послухати семінар школи мислення Apeiron, гроші за який перерахують на потреби армії та постраждалих
-- Дієва протидія російській агресії [фіксувати пересування] [зупиняти ворога]
-- Як зробити «коктейль Молотова»
-- Де здати кров   
-- 
+- Дієва протидія російській агресії [фіксувати пересування](https://t.me/stop_russian_war_bot) [зупиняти ворога](https://www.pravda.com.ua/news/2022/02/26/7326209/)
+- [Як зробити «коктейль Молотова»](https://hromadske.ua/ru/posts/kak-sdelat-koktejl-molotova-i-o-drugih-sposobah-dlya-grazhdanskih-kak-ostanovit-rossijskuyu-tehniku)
+- [Де здати кров](https://www.donor.ua/centers)
+
 Отримати допомогу
