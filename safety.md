@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Safety
+title: Безпека/Safety
 permalink: /safety/
 tags: 
 ---
