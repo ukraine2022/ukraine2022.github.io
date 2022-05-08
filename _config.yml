@@ -1,21 +1,23 @@
 # Site settings
-title:       Maxim Zinchenko's Home Page
+title:       Все буде Україна!
 email:       "..@.."
-author:      Maxim Zinchenko
-description: Home Page
+author:      Все буде Україна!
+description: Все буде Україна!
 baseurl:     ""
-url:         "https://maximmath.github.io"
+url:         "https://ukraine2022.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
- - publications.md
- - courses.md
- - putnam.md
+ - safety.md
+ - help.md
+ - denazi.md
+ - news.md
+ - cult.md
  
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: UA-723010-8
+google_analytics: 
 google_tag_manager:
 # Bing services
 bing_verification:
