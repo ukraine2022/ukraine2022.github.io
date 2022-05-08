@@ -16,7 +16,7 @@ To help/Надати допомогу
 - Donate to [Come Back Alive](https://www.comebackalive.in.ua/) with swift or cryptocurrencies
 - [Fundraising for Bulletproof vests](https://broniki.org.ua/?source-input=wZK9GTyc&default-currency=2)
 - [Donate to SaveKharkiv](https://savekharkiv.org/)
-- Shop on AmazonSmile which donates 0.5% to a charity of your choice 
+- Shop on [AmazonSmile](https://smile.amazon.com/) which donates 0.5% to a charity of your choice 
 - Join the [IT Army of Ukraine](https://t.me/s/itarmyofukraine2022)
 - [Що США та НАТО можуть надати Україні замість "закритого неба"](https://www.eurointegration.com.ua/articles/2022/03/14/7135931/)
 - [Україна подала до Конгресу США перелік необхідної військової допомоги](https://www.pravda.com.ua/news/2022/03/31/7335943/)
