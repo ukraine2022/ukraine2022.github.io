@@ -12,9 +12,9 @@ To help/Надати допомогу
 - US: submit letters to your representatives in Congress  [[Senate]](https://www.senate.gov/senators/senators-contact.htm)  [[House]](https://www.house.gov/representatives) 
 - Deutschland: [schreiben an den Bundestag](https://www.bundestag.de/abgeordnete)
 - [Boycott companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain) [Petition to eliminate from ESG ratings.](https://www.change.org/p/eliminate-bloody-trade-companies-from-esg-ratings?source_location=topic_page) [Як переконати міжнародні компанії піти з Росії.](https://www.epravda.com.ua/columns/2022/03/27/684758/)
-- Donate to Come Back Alive with swift or cryptocurrencies  
-- Fundraising for Bulletproof vests 
-- Donate to SaveKharkiv
+- Donate to [Come Back Alive](https://www.comebackalive.in.ua/) with swift or cryptocurrencies
+- [Fundraising for Bulletproof vests](https://broniki.org.ua/?source-input=wZK9GTyc&default-currency=2)
+- [Donate to SaveKharkiv](https://savekharkiv.org/)
 - Shop on AmazonSmile which donates 0.5% to a charity of your choice 
 - Join the IT Army of Ukraine
 - Що США та НАТО можуть надати Україні замість "закритого неба"
