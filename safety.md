@@ -8,7 +8,7 @@ tags:
 - [У зоні бойових дій](https://dovidka.info%2Fu-zoni-bojovyh-dij%2F%23shelling&sa=D&sntz=1&usg=AOvVaw3u5TkiPjkchaPPWg8Vus5P)
 - [Як поводитися під час обстрілів. Аптечка](https://lifestyle.segodnya.ua%2Flifestyle%2Fwellness%2Fartilleriya-ili-strelba-kak-deystvovat-vo-vremya-obstrela-1605129.html&sa=D&sntz=1&usg=AOvVaw24bl_L1gP-uwXYzrXz1oOe) [instagram](https://www.instagram.com%2Fp%2FCamrWktoGbz%2F&sa=D&sntz=1&usg=AOvVaw2tWtXzF6gF1BqpjVyCpZx2) [додаткові пояснення,jpg](https://life.pravda.com.ua%2Fsociety%2F2022%2F03%2F1%2F247611%2F&sa=D&sntz=1&usg=AOvVaw2MCNY8zF0qQKepQzDd1XCe)
 - [Мапа найближчих бомбосховищ по всій Україні](https://www.rbc.ua%2Fukr%2Fstyler%2Fpoyavilas-obnovlennaya-karta-blizhayshih-1645697118.html&sa=D&sntz=1&usg=AOvVaw3YhbVvAprtGWz3pn_u-2Za) 
-- Під час вибуху АЕС: [Йод.](https://www.instagram.com%2Ftv%2FCafOGDSFO9n%2F%3Futm_source%3Dig_embed%26utm_campaign%3Dloading&sa=D&sntz=1&usg=AOvVaw2RzPy7CcXPLXMU3nejmD_v) [Інші поради.](https://life.pravda.com.ua/health/2022/03/4/247660/)
+- Під час вибуху АЕС: [Йод.](https://www.instagram.com/tv/CafOGDSFO9n/) [Інші поради.](https://life.pravda.com.ua/health/2022/03/4/247660/)
 - [При ураженні білим фосфором](https://life.pravda.com.ua%2Fhealth%2F2022%2F04%2F13%2F248235%2F&sa=D&sntz=1&usg=AOvVaw0qk2QSba2bQongtCYMhKts)
 - [При отруєнні аміаком](https://life.pravda.com.ua%2Fhealth%2F2022%2F03%2F11%2F247760%2F&sa=D&sntz=1&usg=AOvVaw1wcz-Et77IaZIGZCRi4OLN)
 - [Хімічна атака: ціанід, зарин, іприт, хлор](https://life.pravda.com.ua%2Fhealth%2F2022%2F03%2F22%2F247916%2F&sa=D&sntz=1&usg=AOvVaw23xpAjJ2WOvOywLx6Rdj50)
