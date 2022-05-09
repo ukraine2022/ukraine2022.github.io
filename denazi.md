@@ -5,7 +5,7 @@ permalink: /denazification/
 tags: 
 ---
 
-Thousands of murders including children, millions of refugees, destroyed cities and cultural monuments, are committed not by Putin himself, but by about 200k soldiers and millions of voters and taxpayers who made it possible.
+Thousands of murders including children, tortures, destroyed cities, schools, homes and cultural monuments, are committed not by Putin himself, but by about 200k soldiers and millions of voters and taxpayers who made it possible.
 
 - [86.6% of Russians support the armed invasion of Russia in other European countries](https://activegroup.com.ua/2022/03/16/survey-says-86-6-of-russians-support-the-armed-invasion-of-russia-in-other-european-countries/)
 - [Most Russians support the war in Ukraine.](https://www.atlanticcouncil.org/blogs/ukrainealert/not-just-putin-most-russians-support-the-war-in-ukraine/)
