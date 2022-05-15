@@ -13,7 +13,7 @@ To help/Надати допомогу
 - Donate to [SaveKharkiv](https://savekharkiv.org/)
 - US: submit letters to your representatives in Congress  [[Senate]](https://www.senate.gov/senators/senators-contact.htm)  [[House]](https://www.house.gov/representatives) 
 - Deutschland: [schreiben an den Bundestag](https://www.bundestag.de/abgeordnete)
-- [Boycott companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain) [Petition to eliminate from ESG ratings.](https://www.change.org/p/eliminate-bloody-trade-companies-from-esg-ratings?source_location=topic_page) 
+- [Boycott companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain)/ [Petition to eliminate from ESG ratings.](https://www.change.org/p/eliminate-bloody-trade-companies-from-esg-ratings?source_location=topic_page)/ 
 [Як переконати міжнародні компанії піти з Росії.](https://www.epravda.com.ua/columns/2022/03/27/684758/)
 - [How West rewarded Russia for wars.](https://www.eurointegration.com.ua/eng/articles/2022/03/21/7136335/) 
 - [EU member states exported weapons to Russia after the 2014 embargo.](https://www.investigate-europe.eu/en/2022/eu-states-exported-weapons-to-russia/)
