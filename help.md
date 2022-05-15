@@ -7,7 +7,7 @@ tags:
 
 To help/Надати допомогу
 - Donate to [defense, demining, medical aid, rebuild of Ukraine](https://u24.gov.ua/) (credit card, bank transfer, paypal, cryptocurrency)
-- Support [Ukrainian army and civilians/На потреби армії та гуманітарну допомогу](https://bank.gov.ua/en/) (credit card or bank transfer)
+- Support [Ukrainian army and civilians](https://bank.gov.ua/en/) (credit card or bank transfer)
 - Donate to [Come Back Alive](https://www.comebackalive.in.ua/) (swift or cryptocurrencies)  
 - Fundraising for [bulletproof vests](https://broniki.org.ua/?source-input=wZK9GTyc&default-currency=2)
 - Donate to [SaveKharkiv](https://savekharkiv.org/)
