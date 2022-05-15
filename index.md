@@ -12,7 +12,7 @@ layout: default
 - US [[Senate]](https://www.senate.gov/senators/senators-contact.htm) [[House]](https://www.house.gov/representatives)  
 - Deutschland [[Bundestag]](https://www.bundestag.de/abgeordnete)
 
-#### [Boycott companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain)
+#### Boycott [companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain)
 
 #### Some of the world mistakes that lead to this war:
 - [How West rewarded Russia for wars.](https://www.eurointegration.com.ua/eng/articles/2022/03/21/7136335/) 
