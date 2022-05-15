@@ -6,10 +6,13 @@ layout: default
 
 #### Donate
 - [Defense, Demining, Medical Aid, Rebuild of Ukraine](https://u24.gov.ua/) (credit card, bank transfer, paypal, cryptocurrency)
-- [Ukrainian Army and Civilians](https://bank.gov.ua/en/) (credit card or bank transfer)
+- [Ukrainian Army and Civilians](https://bank.gov.ua/en/) (credit card, bank transfer)
 
 #### Ask your government to provide an adequate help to Ukraine
+- US [[Senate]](https://www.senate.gov/senators/senators-contact.htm) [[House]](https://www.house.gov/representatives)  
+- Deutschland [[Bundestag]](https://www.bundestag.de/abgeordnete)
 
+#### [Boycott companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain)
 <br>
 <br>
 
