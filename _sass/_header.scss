@@ -5,7 +5,7 @@
 }
 
 .site-header a {
-  color: #fff;
+  color: $header-text-color;
   font-size: $h3;
   font-weight: 300;
   background-image: none;
@@ -21,15 +21,15 @@
 }
 
 .site-header nav a {
-  color: #fff;
+  color: $header-text-color;
 }
 
 .site-header nav a:hover,
 .site-header nav a:focus,
 .site-header nav a:active {
-  color: #fff;
+  color: $header-text-color;
   opacity: 1;
-  border-bottom: 3px solid #fff;
+  border-bottom: 3px solid $header-text-color;
 }
 
 .site-nav a + a {
