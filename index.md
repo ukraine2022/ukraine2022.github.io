@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### HELP TO STOP THE WAR 
+### HELP TO STOP THE WAR !(/img/flag.jpg)
 
 #### Donate
 - [Defense, Demining, Medical Aid, Rebuild of Ukraine](https://u24.gov.ua/) (credit card, bank transfer, paypal, cryptocurrency)
