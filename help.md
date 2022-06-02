@@ -24,7 +24,7 @@ To help/Надати допомогу
 - [Україна подала до Конгресу США перелік необхідної військової допомоги](https://www.pravda.com.ua/news/2022/03/31/7335943/)
 - [Як замініти російські нафту та газ](https://www.epravda.com.ua/publications/2022/04/6/685291/)
 - Послухати семінар школи мислення Apeiron, гроші за який перерахують на потреби армії та постраждалих
-- Дієва протидія російській агресії [фіксувати пересування](https://t.me/stop_russian_war_bot) [зупиняти ворога](https://www.pravda.com.ua/news/2022/02/26/7326209/)
+- Дієва протидія російській агресії [фіксувати пересування](https://t.me/stop_russian_war_bot), [зупиняти ворога](https://www.pravda.com.ua/news/2022/02/26/7326209/)
 - Як зробити [«коктейль Молотова»](https://hromadske.ua/ru/posts/kak-sdelat-koktejl-molotova-i-o-drugih-sposobah-dlya-grazhdanskih-kak-ostanovit-rossijskuyu-tehniku)
 - [Де здати кров](https://www.donor.ua/centers)
 
