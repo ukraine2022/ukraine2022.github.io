@@ -5,7 +5,7 @@ layout: default
 ### HELP TO STOP THE WAR & GENOCIDE &nbsp;<img src="/img/flag.jpg" height="18">
 
 #### Donate
-- [Defense, Demining, Medical Aid, Rebuild of Ukraine](https://u24.gov.ua/) (credit card, bank transfer, paypal, cryptocurrency)
+- [Defense, Demining, Medical Aid, Rebuild of Ukraine](https://u24.gov.ua/) (credit card, bank transfer, paypal, cryptocurrency) (initiative of the President of Ukraine)
 - [Ukrainian Army and Civilians](https://bank.gov.ua/en/) (credit card, bank transfer)
 
 #### Ask your government to provide an adequate help to Ukraine
