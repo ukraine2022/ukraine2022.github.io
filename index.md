@@ -5,6 +5,7 @@ layout: default
 ### HELP TO STOP THE WAR & GENOCIDE &nbsp;<img src="/img/flag.jpg" height="18">
 
 #### Donate
+- [Army of Drones](https://u24.gov.ua/dronation) (credit card, bank transfer, cryptocurrency) - UNITED24
 - [Defense, Demining, Medical Aid, Rebuild of Ukraine](https://u24.gov.ua/) (credit card, bank transfer, paypal, cryptocurrency) - UNITED24
 - [Ukrainian Army and Civilians](https://bank.gov.ua/en/) (credit card, bank transfer)
 
