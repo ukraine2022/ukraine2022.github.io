@@ -6,6 +6,7 @@ tags:
 ---
 
 To help/Надати допомогу
+- Donate to [Army of Drones](https://u24.gov.ua/dronation) (credit card, bank transfer, cryptocurrency) - UNITED24
 - Donate to [defense, demining, medical aid, rebuild of Ukraine](https://u24.gov.ua/) (credit card, bank transfer, paypal, cryptocurrency)
 - Support [Ukrainian army and civilians](https://bank.gov.ua/en/) (credit card, bank transfer)
 - Donate to [Come Back Alive](https://www.comebackalive.in.ua/) (swift, cryptocurrency)  
