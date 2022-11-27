@@ -21,4 +21,5 @@ Thousands of murders including children, tortures, destroyed cities, schools, ho
 - [Я не твій брат, ти не сестра моя](https://www.instagram.com/p/CapuezBNBCW/)
 - [Полк "Азов" та російські фейки](https://www.pravda.com.ua/columns/2022/05/7/7344690/)
 - [Nazism in Russia](https://www.youtube.com/watch?v=42qb42EUGz8)
-- [2014-2021](https://www.youtube.com/watch?v=lAIja2wWbrE)
+- [Who bombed Donbas](https://www.youtube.com/watch?v=EXdK6Bz7aYw&list=WL&index=3)
+- [2014-2021, Russian troops and weapons in Donbas](https://www.youtube.com/watch?v=lAIja2wWbrE)
