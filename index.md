@@ -5,9 +5,8 @@ layout: default
 ### HELP TO STOP THE WAR & GENOCIDE &nbsp;<img src="/img/flag.jpg" height="18">
 
 #### Donate
-- [Army of Drones](https://u24.gov.ua/dronation) (credit card, bank transfer, cryptocurrency) - UNITED24
-- [Defense, Demining, Medical Aid, Rebuild of Ukraine](https://u24.gov.ua/) (credit card, bank transfer, paypal, cryptocurrency) - UNITED24
-- [Ukrainian Army and Civilians](https://bank.gov.ua/en/) (credit card, bank transfer)
+- Donate to [Come Back Alive](https://savelife.in.ua/en/) (credit card, swift, cryptocurrency)
+- Donate to [Charity foundation of Serhiy Prytula](https://prytulafoundation.org/en) (swift, paypal, cryptocurrency) 
 
 #### Ask your government to provide an adequate help to Ukraine
 - US [[Senate]](https://www.senate.gov/senators/senators-contact.htm) [[House]](https://www.house.gov/representatives)  
