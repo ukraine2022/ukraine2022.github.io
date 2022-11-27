@@ -20,4 +20,5 @@ Thousands of murders including children, tortures, destroyed cities, schools, ho
 - [Як денацифікувати Росію – досвід гітлерівської Німеччини](https://www.pravda.com.ua/articles/2022/03/26/7334583/)
 - [Я не твій брат, ти не сестра моя](https://www.instagram.com/p/CapuezBNBCW/)
 - [Полк "Азов" та російські фейки](https://www.pravda.com.ua/columns/2022/05/7/7344690/)
-- [2014-2021](https://www.youtube.com/watch?v=EXdK6Bz7aYw&list=WL&index=1)
+- [Nazism in Russia](https://www.youtube.com/watch?v=42qb42EUGz8)
+- [2014-2021](https://www.youtube.com/watch?v=lAIja2wWbrE)
