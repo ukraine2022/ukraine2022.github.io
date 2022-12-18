@@ -9,7 +9,7 @@ layout: default
 - Donate to [Charity foundation of Serhiy Prytula](https://prytulafoundation.org/en) (swift, paypal, cryptocurrency) 
 
 #### Ask your government to provide an adequate help to Ukraine
-- US [[Senate]](https://www.senate.gov/senators/senators-contact.htm) [[House]](https://www.house.gov/representatives)  
+- US [[White House]] (https://www.whitehouse.gov/contact/) [[Senate]](https://www.senate.gov/senators/senators-contact.htm) [[House]](https://www.house.gov/representatives)  
 - Deutschland [[Bundestag]](https://www.bundestag.de/abgeordnete)
 
 #### Boycott [companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain)
