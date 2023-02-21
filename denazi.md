@@ -16,7 +16,7 @@ Thousands of murders including children, tortures, destroyed cities, schools, ho
 - [A true face of Russian liberalism?](https://www.youtube.com/watch?v=MszW3b245y4)
 - [Navalny's answer to the question "whose is Crimea?"](https://www.nytimes.com/2014/10/17/world/europe/navalnys-comments-on-crimea-ignite-russian-twittersphere.html)
 - [Operation "Ovsyannikova" or how to make everyone forget about Mariupol.](https://www.pravda.com.ua/eng/columns/2022/03/15/7331479/) <br>
-  ["Пацифістка" з росТБ Овсяннікова почала вимагати зняття санкцій з Росії.](https://uazmi.org/news/post/5ca2504aefa883e72d975f5b33c10065)
+  ["Пацифістка" з росТБ Овсяннікова почала вимагати зняття санкцій з Росії.](https://www.unian.ua/russianworld/pacifistka-z-rostb-ovsyannikova-pochala-vimagati-znyattya-sankciy-z-rosiji-novini-rosiji-11764987.html)
 - [Russians don’t deserve your pity](https://www.pravda.com.ua/eng/columns/2022/03/28/7335210/)
 - [Як денацифікувати Росію – досвід гітлерівської Німеччини](https://www.pravda.com.ua/articles/2022/03/26/7334583/)
 - [Я не твій брат, ти не сестра моя](https://www.instagram.com/p/CapuezBNBCW/)
