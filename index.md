@@ -6,7 +6,7 @@ layout: default
 
 #### Donate
 - Donate to [Come Back Alive](https://savelife.in.ua/en/) (credit card, swift, cryptocurrency)
-- Donate to [Charity foundation of Serhiy Prytula](https://prytulafoundation.org/en) (swift, paypal, cryptocurrency) 
+- Donate to funds suggested in Допомога/Help
 
 #### Ask your government to provide an adequate help to Ukraine
 - US [[White House]](https://www.whitehouse.gov/contact/), [[Senate]](https://www.senate.gov/senators/senators-contact.htm), [[House]](https://www.house.gov/representatives)  
