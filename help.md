@@ -12,7 +12,6 @@ To help/Надати допомогу
 - Donate to [defense, demining, medical aid, rebuild of Ukraine](https://u24.gov.ua/) (credit card, bank transfer, paypal, cryptocurrency)
 - Support [Ukrainian army and civilians](https://bank.gov.ua/en/) (credit card, bank transfer)
 - Fundraising for [bulletproof vests](https://broniki.org.ua/?source-input=wZK9GTyc&default-currency=2)
-- Donate to [SaveKharkiv](https://savekharkiv.org/)
 - US: submit letters to your representatives in Congress  [[Senate]](https://www.senate.gov/senators/senators-contact.htm)  [[House]](https://www.house.gov/representatives) 
 - Deutschland: [schreiben an den Bundestag](https://www.bundestag.de/abgeordnete)
 - [Boycott companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain) <br> [Petition to eliminate from ESG ratings.](https://www.change.org/p/eliminate-bloody-trade-companies-from-esg-ratings?source_location=topic_page) <br> 
