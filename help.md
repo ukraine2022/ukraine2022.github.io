@@ -37,6 +37,6 @@ To help/Надати допомогу
 - [Тraining and work opportunities in CERN](https://jobs.smartrecruiters.com/CERN/743999814255367-science-for-ukraine-training-and-work-opportunities-for-ukrainian-nationals) 
 - [Медичне транспортування пацієнтів Україною та за кордон](https://medvak.com.ua/)
 - [Плануєте евакуацію? Де отримати допомогу та житло](https://life.pravda.com.ua/society/2022/02/26/247573/) 
-- Житло закордоном [[UkraineNow]](https://www.ukrainenow.org/) [[TakeShelter]](https://www.ukrainetakeshelter.com/)
+- Житло закордоном [[UkraineNow]](https://www.ukrainenow.org/) 
 - Біженці [[The Netherlands]](https://help.unhcr.org/netherlands/) [[Canada]](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-to-welcome-those-fleeing-the-war-in-ukraine.html) [[US]](https://www.uscis.gov/humanitarian/uniting-for-ukraine)
 - Псигологічна допомога [[провина вцілілого]](https://life.pravda.com.ua/society/2022/03/4/247661/) [[як контролювати стрес]](https://life.pravda.com.ua/health/2022/02/27/247580/) [[методика письма по Бейкеру]](https://life.pravda.com.ua/health/2022/04/7/248138/)
