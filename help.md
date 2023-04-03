@@ -32,9 +32,6 @@ To help/Надати допомогу
 
 Отримати допомогу
 - [Якщо втратили роботу через війну](https://thepoint.rabota.ua/ya-zalyshyvsya-bez-roboty-pid-chas-viyny-scho-robyty/)
-- [Jobs for Ukraine](https://jobsforukraine.net/)
-- [Support for students & researchers from Ukraine.](https://ukrainet.eu/2022/05/04/support-for-academics/) [Навчання в університеті за кордоном під час війни.](https://life.pravda.com.ua/society/2022/04/1/248051/)
-- [Тraining and work opportunities in CERN](https://jobs.smartrecruiters.com/CERN/743999814255367-science-for-ukraine-training-and-work-opportunities-for-ukrainian-nationals) 
 - [Медичне транспортування пацієнтів Україною та за кордон](https://medvak.com.ua/)
 - [Плануєте евакуацію? Де отримати допомогу та житло](https://life.pravda.com.ua/society/2022/02/26/247573/) 
 - Житло закордоном [[UkraineNow]](https://www.ukrainenow.org/) 
