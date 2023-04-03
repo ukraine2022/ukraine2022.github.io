@@ -23,5 +23,5 @@ Tens of thousands of murders including children, tortures, destroyed cities, sch
 - [Полк "Азов" та російські фейки](https://www.pravda.com.ua/columns/2022/05/7/7344690/)
 - [Nazism in Russia](https://www.youtube.com/watch?v=42qb42EUGz8)
 - [Who bombed Donbass](https://www.youtube.com/watch?v=EXdK6Bz7aYw&list=WL&index=3)
-- Russia intended to use Donbass, never planned to rescue/liberate Donbass: [residents of Donbass understand it](https://www.youtube.com/watch?v=uPgjcReKfLw) 
+- Russia intended to use Donbass and never planned to rescue/liberate it: [residents of Donbass understand that](https://www.youtube.com/watch?v=uPgjcReKfLw) 
 - [2014-2021: Russian troops and weapons in Donbass](https://www.youtube.com/watch?v=lAIja2wWbrE)
