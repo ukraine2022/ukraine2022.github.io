@@ -20,7 +20,6 @@ To help/Надати допомогу
 - [How Russia circumvents sanctions on weapons imports.](https://www.pravda.com.ua/eng/articles/2022/04/25/7341956/)
 - Join the [IT Army of Ukraine](https://t.me/s/itarmyofukraine2022)
 - [Що США та НАТО можуть надати Україні замість "закритого неба"](https://www.eurointegration.com.ua/articles/2022/03/14/7135931/)
-- [Україна подала до Конгресу США перелік необхідної військової допомоги](https://www.pravda.com.ua/news/2022/03/31/7335943/)
 - [Як замініти російські нафту та газ](https://www.epravda.com.ua/publications/2022/04/6/685291/)
 - Послухати семінар школи мислення Apeiron, гроші за який перерахують на потреби армії та постраждалих
 - Дієва протидія російській агресії [фіксувати пересування](https://t.me/stop_russian_war_bot), [зупиняти ворога](https://www.pravda.com.ua/news/2022/02/26/7326209/)
