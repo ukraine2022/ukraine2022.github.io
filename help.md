@@ -20,7 +20,6 @@ To help/Надати допомогу
 - [How the West rewarded Russia for wars.](https://www.eurointegration.com.ua/eng/articles/2022/03/21/7136335/) 
 - [EU member states exported weapons to Russia after the 2014 embargo.](https://www.investigate-europe.eu/en/2022/eu-states-exported-weapons-to-russia/)
 - [How Russia circumvents sanctions on weapons imports.](https://www.pravda.com.ua/eng/articles/2022/04/25/7341956/)
-- Shop on [AmazonSmile](https://smile.amazon.com/) which donates 0.5% to a charity of your choice 
 - Join the [IT Army of Ukraine](https://t.me/s/itarmyofukraine2022)
 - [Що США та НАТО можуть надати Україні замість "закритого неба"](https://www.eurointegration.com.ua/articles/2022/03/14/7135931/)
 - [Україна подала до Конгресу США перелік необхідної військової допомоги](https://www.pravda.com.ua/news/2022/03/31/7335943/)
