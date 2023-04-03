@@ -8,7 +8,7 @@ tags:
 To help/Надати допомогу
 - Donate to [Come Back Alive](https://savelife.in.ua/en/) (credit card, swift, cryptocurrency)
 - Donate to medical aid, demining, defense and rebuild of Ukraine [UNITED24](https://u24.gov.ua/about) (credit card, bank transfer, paypal) 
-- Donate toArmy of Drones [Dignitas](https://dignitas.fund/drones/)
+- Donate to Army of Drones [Dignitas](https://dignitas.fund/drones/)
 - Donate to [Charity foundation of Serhiy Prytula](https://prytulafoundation.org/en) (swift, paypal, cryptocurrency)
 - Support [Ukrainian army and civilians](https://bank.gov.ua/en/) (credit card, bank transfer)
 - US: submit letters to your representatives in Congress  [[Senate]](https://www.senate.gov/senators/senators-contact.htm)  [[House]](https://www.house.gov/representatives) 
