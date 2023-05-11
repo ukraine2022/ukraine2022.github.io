@@ -26,3 +26,4 @@ Tens of thousands of murders including children, tortures, destroyed cities, sch
 - [Who bombed Donbass](https://www.youtube.com/watch?v=EXdK6Bz7aYw&list=WL&index=3)
 - Russia intended to use Donbass and never planned to rescue/liberate it: [residents of Donbass understand that](https://www.youtube.com/watch?v=uPgjcReKfLw) 
 - [2014-2021: Russian troops and weapons in Donbass](https://www.youtube.com/watch?v=lAIja2wWbrE)
+- [Moscovia stole the history of Kyivan (Kievan) Rus'](https://universum.lviv.ua/journal/2011/6/dashk.htm) 
