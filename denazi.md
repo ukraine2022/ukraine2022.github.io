@@ -15,7 +15,7 @@ Tens of thousands of murders including children, tortures, destroyed cities, sch
   [Россиянин признается, что наслаждается пыткой украинцев. Мать отвечает, что тоже "кайфовала бы".](https://www.pravda.com.ua/rus/news/2022/05/3/7343820/)
 - [A true face of Russian liberalism?](https://www.youtube.com/watch?v=MszW3b245y4)
 - [Russian liberal ends where Ukraine begins](https://www.youtube.com/watch?v=zcrktBCPSYY)
-- [Navalny's answer to the question "whose is Crimea?"](https://www.nytimes.com/2014/10/17/world/europe/navalnys-comments-on-crimea-ignite-russian-twittersphere.html)
+- [What Navalny told about Ukriane](https://www.atlanticcouncil.org/blogs/ukrainealert/russias-navalny-protests-provoke-mixed-emotions-in-ukraine/)
 - [Operation "Ovsyannikova" or how to make everyone forget about Mariupol.](https://www.pravda.com.ua/eng/columns/2022/03/15/7331479/) <br>
   ["Пацифістка" з росТБ Овсяннікова почала вимагати зняття санкцій з Росії.](https://www.unian.ua/russianworld/pacifistka-z-rostb-ovsyannikova-pochala-vimagati-znyattya-sankciy-z-rosiji-novini-rosiji-11764987.html)
 - [Russians don’t deserve your pity](https://www.pravda.com.ua/eng/columns/2022/03/28/7335210/)
