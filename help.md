@@ -8,7 +8,7 @@ tags:
 To help/Надати допомогу
 - Donate to medical aid, demining, defense and rebuild of Ukraine [UNITED24](https://u24.gov.ua/) (credit card, bank transfer, paypal) 
 - Donate to [Come Back Alive](https://savelife.in.ua/en/) (credit card, swift, cryptocurrency)
-- Donate to [Naval Fleet of Drones](https://u24.gov.ua/navaldrones)
+- Donate to [Dignitas](https://dignitas.fund/initiatives/)
 - Donate to [Charity foundation of Serhiy Prytula](https://prytulafoundation.org/en) (swift, paypal, cryptocurrency)
 - Support [Ukrainian army and civilians](https://bank.gov.ua/en/) (credit card, bank transfer)
 - US: submit letters to your representatives in Congress  [[Senate]](https://www.senate.gov/senators/senators-contact.htm)  [[House]](https://www.house.gov/representatives) 
@@ -24,11 +24,3 @@ To help/Надати допомогу
 - Дієва протидія російській агресії [фіксувати пересування](https://t.me/stop_russian_war_bot), [зупиняти ворога](https://www.pravda.com.ua/news/2022/02/26/7326209/)
 - Як зробити [«коктейль Молотова»](https://hromadske.ua/ru/posts/kak-sdelat-koktejl-molotova-i-o-drugih-sposobah-dlya-grazhdanskih-kak-ostanovit-rossijskuyu-tehniku)
 - [Де здати кров](https://www.donor.ua/centers)
-
-Отримати допомогу
-- [Якщо втратили роботу через війну](https://thepoint.rabota.ua/ya-zalyshyvsya-bez-roboty-pid-chas-viyny-scho-robyty/)
-- [Медичне транспортування пацієнтів Україною та за кордон](https://medvak.com.ua/)
-- [Плануєте евакуацію? Де отримати допомогу та житло](https://life.pravda.com.ua/society/2022/02/26/247573/) 
-- Житло закордоном [[UkraineNow]](https://www.ukrainenow.org/) 
-- Біженці [[The Netherlands]](https://help.unhcr.org/netherlands/) [[Canada]](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-to-welcome-those-fleeing-the-war-in-ukraine.html) [[US]](https://www.uscis.gov/humanitarian/uniting-for-ukraine)
-- Псигологічна допомога [[провина вцілілого]](https://life.pravda.com.ua/society/2022/03/4/247661/) [[як контролювати стрес]](https://life.pravda.com.ua/health/2022/02/27/247580/) [[методика письма по Бейкеру]](https://life.pravda.com.ua/health/2022/04/7/248138/)
