@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Допомога/Help
+title: Help/Допомога
 permalink: /help/
 tags: 
 ---
