@@ -22,5 +22,5 @@ To help/Надати допомогу
 - [Що США та НАТО можуть надати Україні замість "закритого неба"](https://www.eurointegration.com.ua/articles/2022/03/14/7135931/)
 - [Як замініти російські нафту та газ](https://www.epravda.com.ua/publications/2022/04/6/685291/)
 - Дієва протидія російській агресії [фіксувати пересування](https://t.me/stop_russian_war_bot), [зупиняти ворога](https://www.pravda.com.ua/news/2022/02/26/7326209/)
-- Як зробити [«коктейль Молотова»](https://hromadske.ua/ru/posts/kak-sdelat-koktejl-molotova-i-o-drugih-sposobah-dlya-grazhdanskih-kak-ostanovit-rossijskuyu-tehniku)
+- Як зробити [«коктейль Молотова»](https://hromadske.ua/posts/yak-zrobiti-koktejl-molotova-ta-pro-inshi-sposobi-dlya-civilnih-yak-zupiniti-rosijsku-tehniku)
 - [Де здати кров](https://www.donor.ua/centers)
