@@ -7,6 +7,7 @@ tags:
 
 - [У зоні бойових дій](https://dovidka.info/u-zoni-bojovyh-dij/#shelling)
 - [Як поводитися під час обстрілів. Аптечка](https://lifestyle.segodnya.ua/lifestyle/wellness/artilleriya-ili-strelba-kak-deystvovat-vo-vremya-obstrela-1605129.html) [instagram](https://www.instagram.com/p/CamrWktoGbz/) [додаткові пояснення,jpg](https://life.pravda.com.ua/society/2022/03/1/247611/)
+- [Залізне укриття](https://www.ironshelter.gov.ua/)
 - [Мапа найближчих бомбосховищ по всій Україні](https://www.rbc.ua/ukr/styler/poyavilas-obnovlennaya-karta-blizhayshih-1645697118.html) 
 - [Під час вибуху АЕС.](https://life.pravda.com.ua/health/2022/03/4/247660/) [Йод.](https://kaktus.media/doc/455356_doktor_komarovskiy_rasskazal_kak_mojet_pomoch_yod_pri_vzryve_aes.html)
 - [При ураженні білим фосфором](https://life.pravda.com.ua/health/2022/04/13/248235/)
