@@ -14,7 +14,7 @@ tags:
 - [При отруєнні аміаком](https://life.pravda.com.ua/health/2022/03/11/247760/)
 - [Хімічна атака: ціанід, зарин, іприт, хлор](https://life.pravda.com.ua/health/2022/03/22/247916/)
 - [Як знезаразити воду, якщо доступу до питної немає](https://life.pravda.com.ua/health/2022/04/6/248135/)
-- [Обережно, заміновано!](https://life.pravda.com.ua/society/2022/03/19/247881/)     [Не використовуйте телефони поруч.](https://www.pravda.com.ua/news/2022/04/14/7339597/)     [Повідомити про мінування.](https://mine.dsns.gov.ua/)
+- [Обережно, заміновано!](https://life.pravda.com.ua/society/2022/03/19/247881/)     [Не використовуйте телефони поруч.](https://www.pravda.com.ua/news/2022/04/14/7339597/)     [Повідомити про мінування.](https://persha.kr.ua/news/life/218734-kudy-povidomlyaty-pro-vybuhonebezpechni-chy-pidozrili-predmety/)
 - [Як відрізнити українську техніку від техніки російських окупантів](https://zaxid.net/yak_vidrizniti_ukrayinsku_tehniku_vid_rosiyskih_okupantiv_n1536910)
 - [Бронежилет, плитконоска, плити та шолом](https://life.pravda.com.ua/society/2022/04/11/248190/)
 - [Як безпечно користуватись месенджерами](http://life.pravda.com.ua/society/2022/03/27/247993/)
