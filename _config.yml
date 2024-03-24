@@ -7,10 +7,10 @@ baseurl:     ""
 url:         "https://ukraine2022.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
- - safety.md
  - help.md
  - denazi.md
  - news.md
+ - safety.md
  
 # Google services
 google_verification:
