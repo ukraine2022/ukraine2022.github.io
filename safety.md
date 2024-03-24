@@ -6,6 +6,7 @@ tags:
 ---
 
 - [У зоні бойових дій](https://dovidka.info/u-zoni-bojovyh-dij/#shelling)
+- [Тактична медицина алгоритм M.A.R.C.H.](https://www.youtube.com/watch?v=ctU6gdVqxUI)
 - [Як поводитися під час обстрілів. Аптечка](https://lifestyle.segodnya.ua/lifestyle/wellness/artilleriya-ili-strelba-kak-deystvovat-vo-vremya-obstrela-1605129.html) [instagram](https://www.instagram.com/p/CamrWktoGbz/) [додаткові пояснення,jpg](https://life.pravda.com.ua/society/2022/03/1/247611/)
 - [Залізне укриття](https://www.ironshelter.gov.ua/)
 - [Мапа найближчих бомбосховищ по всій Україні](https://www.rbc.ua/ukr/styler/poyavilas-obnovlennaya-karta-blizhayshih-1645697118.html) 
