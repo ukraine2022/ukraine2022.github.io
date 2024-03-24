@@ -19,10 +19,10 @@ Tens of thousands of murders including children, tortures, destroyed cities, sch
 - [Operation "Ovsyannikova" or how to make everyone forget about Mariupol.](https://www.pravda.com.ua/eng/columns/2022/03/15/7331479/) <br>
   ["Пацифістка" з росТБ Овсяннікова почала вимагати зняття санкцій з Росії.](https://www.unian.ua/russianworld/pacifistka-z-rostb-ovsyannikova-pochala-vimagati-znyattya-sankciy-z-rosiji-novini-rosiji-11764987.html)
 - [Russians don’t deserve your pity](https://www.pravda.com.ua/eng/columns/2022/03/28/7335210/)
+- [Nazism in Russia](https://www.youtube.com/watch?v=42qb42EUGz8)
 - [Як денацифікувати Росію – досвід гітлерівської Німеччини](https://www.pravda.com.ua/articles/2022/03/26/7334583/)
 - [Я не твій брат, ти не сестра моя](https://www.instagram.com/p/CapuezBNBCW/)
 - [Полк "Азов" та російські фейки](https://www.pravda.com.ua/columns/2022/05/7/7344690/)
-- [Nazism in Russia](https://www.youtube.com/watch?v=42qb42EUGz8)
 - [Who bombed Donbass](https://www.youtube.com/watch?v=EXdK6Bz7aYw&list=WL&index=3)
 - Russia intended to use Donbass and never planned to rescue/liberate it: [residents of Donbass understand that](https://www.youtube.com/watch?v=uPgjcReKfLw) 
 - [2014-2021: Russian troops and weapons in Donbass](https://www.youtube.com/watch?v=lAIja2wWbrE)
