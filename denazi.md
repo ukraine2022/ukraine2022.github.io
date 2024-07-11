@@ -7,6 +7,7 @@ tags:
 
 Tens of thousands of murders including children, tortures, destroyed cities, schools, hospitals, homes and cultural monuments are committed not by putin himself, but by hundreds of thousands of soldiers and millions of voters and taxpayers who made it possible.
 
+- [Russian attacks on healthcare infrastructure.](https://www.pravda.com.ua/eng/news/2024/07/9/7464767/)
 - Putin's approval rating in Russia has been growing: [over 80% in January 2023](https://www.statista.com/statistics/896181/putin-approval-rating-russia/)
 - [86.6% of Russians support the armed invasion of Russia in other European countries](https://activegroup.com.ua/2022/03/16/survey-says-86-6-of-russians-support-the-armed-invasion-of-russia-in-other-european-countries/)
 - [Most Russians support the war in Ukraine.](https://www.atlanticcouncil.org/blogs/ukrainealert/not-just-putin-most-russians-support-the-war-in-ukraine/) <br>
