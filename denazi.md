@@ -9,7 +9,7 @@ Tens of thousands of murders including children, tortures, destroyed cities, sch
 
 - [Russian attacks on Ukrainian healthcare infrastructure.](https://www.pravda.com.ua/eng/news/2024/07/9/7464767/)
 - [Russia tortures Christians in occupied territories.](https://russiatortureschristians.org/)
-- [Russian torture chamber for children](https://www.kyivpost.com/post/5787)
+- [Russian torture chamber for children.](https://www.kyivpost.com/post/5787)
 - Putin's approval rating in Russia has been growing: [over 80% in January 2023](https://www.statista.com/statistics/896181/putin-approval-rating-russia/)
 - [86.6% of Russians support the armed invasion of Russia in other European countries](https://activegroup.com.ua/2022/03/16/survey-says-86-6-of-russians-support-the-armed-invasion-of-russia-in-other-european-countries/)
 - [Most Russians support the war in Ukraine.](https://www.atlanticcouncil.org/blogs/ukrainealert/not-just-putin-most-russians-support-the-war-in-ukraine/) <br>
