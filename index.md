@@ -4,6 +4,9 @@ layout: default
 
 ### HELP TO STOP THE WAR & GENOCIDE &nbsp;<img src="/img/flag.jpg" height="18">
 
+#### Contact the President Biden administration 
+- Demand they lift all restrictions on striking legitimate Russian targets [at the bottom of this page](https://www.letukrainestrikeback.com/)
+
 #### Donate
 - Donate to [Come Back Alive](https://savelife.in.ua/en/) (credit card, swift, cryptocurrency)
 - Donate to funds suggested in Help/Допомога
