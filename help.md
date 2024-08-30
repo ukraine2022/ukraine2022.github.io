@@ -7,7 +7,7 @@ tags:
 
 To help/Надати допомогу
 
-- [Contact the President Biden administration] and demand they lift all restrictions on striking legitimate Russian targets [at the bottom of the page](https://www.letukrainestrikeback.com/)
+- Contact the President Biden administration and demand they lift all restrictions on striking legitimate Russian targets [at the bottom of the page](https://www.letukrainestrikeback.com/)
 - Donate to medical aid, demining, defense and rebuild of Ukraine [UNITED24](https://u24.gov.ua/) (credit card, bank transfer, paypal) 
 - Donate to [Come Back Alive](https://savelife.in.ua/en/) (credit card, swift, cryptocurrency)
 - Donate to [Dignitas](https://dignitas.fund/initiatives/)
