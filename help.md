@@ -9,7 +9,7 @@ To help/Надати допомогу
 
 - Contact the President Biden administration and demand they lift all restrictions on striking legitimate Russian targets [at the bottom of this page](https://www.letukrainestrikeback.com/) 
 - Donate to [Come Back Alive](https://savelife.in.ua/en/) (credit card, swift, cryptocurrency)
-- Donate to medical aid, demining, defense and rebuild of Ukraine [UNITED24](https://u24.gov.ua/) (credit card, bank transfer, paypal; tax-deductible)
+- Donate to medical aid, demining, defense and rebuild of Ukraine [UNITED24](https://u24.gov.ua/) (tax-deductible)
 - Donate to [Dignitas](https://dignitas.fund/initiatives/) (tax-deductible)
 - Donate to [Nova Ukraine](https://novaukraine.org/donate/) (tax-deductible)
 - Donate to [Charity foundation of Serhiy Prytula](https://prytulafoundation.org/en) (swift, paypal, cryptocurrency)
