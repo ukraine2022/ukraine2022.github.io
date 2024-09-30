@@ -8,6 +8,7 @@ tags:
 Tens of thousands of murders including children, tortures, destroyed cities, schools, hospitals, homes and cultural monuments are committed not by putin himself, but by hundreds of thousands of soldiers and millions of voters and taxpayers who made it possible.
 
 - [Russian attacks on Ukrainian healthcare infrastructure.](https://www.pravda.com.ua/eng/news/2024/07/9/7464767/)
+- [Russians are using drones to hunt down innocent people.](https://gregolear.substack.com/p/ukraine-dispatch-human-safari)
 - [Russia tortures Christians in occupied territories.](https://russiatortureschristians.org/)
 - [Russian torture chamber for children.](https://www.kyivpost.com/post/5787)
 - Putin's approval rating in Russia has been growing: [over 80% in January 2023](https://www.statista.com/statistics/896181/putin-approval-rating-russia/)
