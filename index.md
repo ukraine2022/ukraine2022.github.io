@@ -18,7 +18,7 @@ layout: default
 #### Boycott [companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain)
 
 #### Some of the world mistakes that lead to this war and/or sponsor the war:
-- [US components in Russian missiles]
+- [US components in Russian missiles](https://www.bloomberg.com/features/2024-russian-missiles-us-tech-ukraine/)
 - [EU member states exported weapons to Russia after the 2014 embargo.](https://www.investigate-europe.eu/en/2022/eu-states-exported-weapons-to-russia/)
 - [How Russia circumvents sanctions on weapons imports.](https://www.pravda.com.ua/eng/articles/2022/04/25/7341956/)
 - [Canada helped to sponsor Russian propaganda film, unlawful entrance of occupied Ukrainian territory.](https://kyivindependent.com/ahead-of-toronto-festival-premier-filmmaker-defends-documentary-on-russian-soldiers-says-journalists-follow-the-story-where-it-goes/)
