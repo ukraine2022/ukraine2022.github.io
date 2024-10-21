@@ -19,7 +19,7 @@ layout: default
 
 #### Some of the world mistakes that lead to this war and/or sponsor the war:
 - [How the West rewarded Russia for wars.](https://www.eurointegration.com.ua/eng/articles/2022/03/21/7136335/) 
-- [Why the U.S. Misjudged Ukraine — The Influence of Russian Imperial Narratives on U.S. Policy](https://www.youtube.com/watch?v=6f7N09kLFD4)
+- [The influence of Russian imperial narratives on U.S. policy - why the U.S. misjudged Ukraine](https://www.youtube.com/watch?v=6f7N09kLFD4)
 - [US components in Russian missiles](https://www.bloomberg.com/features/2024-russian-missiles-us-tech-ukraine/)
 - [EU member states exported weapons to Russia after the 2014 embargo.](https://www.investigate-europe.eu/en/2022/eu-states-exported-weapons-to-russia/)
 - [How Russia circumvents sanctions on weapons imports.](https://www.pravda.com.ua/eng/articles/2022/04/25/7341956/)
