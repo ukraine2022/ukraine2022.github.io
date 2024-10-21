@@ -11,7 +11,7 @@ Tens of thousands of murders including children, tortures, destroyed cities, sch
 - [Russians are using drones to hunt down innocent people.](https://gregolear.substack.com/p/ukraine-dispatch-human-safari)
 - [Russia tortures Christians in occupied territories.](https://russiatortureschristians.org/)
 - [Russian torture chamber for children.](https://www.kyivpost.com/post/5787)
-- Putin's approval rating in Russia has been growing: [over 80% in January 2023](https://www.statista.com/statistics/896181/putin-approval-rating-russia/)
+- [Putin's approval rating in Russia is over 80% in January 2023](https://www.statista.com/statistics/896181/putin-approval-rating-russia/)
 - [86.6% of Russians support the armed invasion of Russia in other European countries](https://activegroup.com.ua/2022/03/16/survey-says-86-6-of-russians-support-the-armed-invasion-of-russia-in-other-european-countries/)
 - [Most Russians support the war in Ukraine.](https://www.atlanticcouncil.org/blogs/ukrainealert/not-just-putin-most-russians-support-the-war-in-ukraine/) <br>
   [[71% росіян відчуває гордість через війну з Україною на початку війни]](https://www.radiosvoboda.org/a/news-sotsiology-rosiyany-viyna-gordist/31757775.html) тa [[74% через місяць війни]](https://wciom.ru/analytical-reviews/analiticheskii-obzor/specialnaja-voennaja-operacija-monitoring)
