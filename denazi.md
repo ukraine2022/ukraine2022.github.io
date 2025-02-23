@@ -7,6 +7,7 @@ tags:
 
 Tens of thousands of murders including children, tortures, destroyed cities, schools, hospitals, homes and cultural monuments are committed not by putin himself, but by hundreds of thousands of soldiers and millions of voters and taxpayers who made it possible.
 
+- [Russia abducted ~20000 Ukrainian children. Harrowing camps for Ukrainian children in Russia.](https://nypost.com/2023/03/06/ukrainian-kids-kidnapped-by-russia-sent-to-re-education-camps/)
 - [Russian attacks on Ukrainian healthcare infrastructure.](https://www.pravda.com.ua/eng/news/2024/07/9/7464767/)
 - [Russians are using drones to hunt down innocent people.](https://gregolear.substack.com/p/ukraine-dispatch-human-safari)
 - [Russia tortures Christians in occupied territories.](https://russiatortureschristians.org/)
