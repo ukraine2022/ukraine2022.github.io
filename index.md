@@ -14,7 +14,7 @@ layout: default
 
 #### Boycott [companies that stay on the Russian market.](https://som.yale.edu/story/2022/almost-1000-companies-have-curtailed-operations-russia-some-remain)
 
-#### [10 Ukraine-Russia war truths ignored at our peril](https://nypost.com/2025/02/20/opinion/putin-is-the-dictator-and-10-ukraine-russia-war-truths-we-ignore-at-our-peril/)
+#### [Ukraine-Russia war truths ignored at our peril](https://nypost.com/2025/02/20/opinion/putin-is-the-dictator-and-10-ukraine-russia-war-truths-we-ignore-at-our-peril/)
 
 #### Some of the world mistakes that lead to this war and/or sponsor the war:
 - [How the West rewarded Russia for wars.](https://www.eurointegration.com.ua/eng/articles/2022/03/21/7136335/) 
