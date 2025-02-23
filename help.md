@@ -7,10 +7,10 @@ tags:
 
 To help/Надати допомогу
 - Donate to [Come Back Alive](https://savelife.in.ua/en/) (credit card, swift, cryptocurrency)
-- Donate to medical aid, demining, defense and rebuild of Ukraine [UNITED24](https://u24.gov.ua/) (tax-deductible)
 - Donate to [Dignitas](https://dignitas.fund/initiatives/) (tax-deductible)
 - Donate to [Razom for Ukraine](https://www.razomforukraine.org/about-us/) (tax-deductible)
 - Donate to [Nova Ukraine](https://novaukraine.org/donate/) (tax-deductible)
+- Donate to medical aid, demining, defense and rebuild of Ukraine [UNITED24](https://u24.gov.ua/) (tax-deductible)
 - Support [Ukrainian army and civilians](https://bank.gov.ua/en/) (credit card, bank transfer)
 - US: submit letters to your representatives in Congress  [[Senate]](https://www.senate.gov/senators/senators-contact.htm)  [[House]](https://www.house.gov/representatives) 
 - Deutschland: [schreiben an den Bundestag](https://www.bundestag.de/abgeordnete)
