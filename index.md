@@ -4,6 +4,8 @@ layout: default
 
 ### HELP TO STOP THE WAR & GENOCIDE &nbsp;<img src="/img/flag.jpg" height="18">
 
+#### [Help to release kidnapped Ukrainian children](https://www.releasethekids.com/)
+
 #### Donate
 - Donate to [Come Back Alive](https://savelife.in.ua/en/) (credit card, swift, cryptocurrency)
 - Donate to funds suggested in Help/Допомога
